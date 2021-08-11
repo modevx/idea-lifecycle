@@ -1,4 +1,4 @@
-![MODEVX Resources Repo Banner](./images/repo-banner__resources.png)
+![MODEVX Resources Repo Banner](./images/repo-banner__mobile-resources.png)
 
 banner bg-img by [Rami Al-zayat](https://unsplash.com/@rami_alzayat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/smartphone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
