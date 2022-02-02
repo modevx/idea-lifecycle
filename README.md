@@ -59,6 +59,9 @@
 
 </div>
 
+- [Azure DevOps Boards](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+- [Trello](https://trello.com/)
+
 <h3 id='design'>
 
 ![mobile dev tools repo graphic](./assets/design.png)
@@ -75,6 +78,7 @@
 - [Material Design components](https://material.io/develop/android)
 - [App quality guidelines](https://developer.android.com/quality)
 - [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+- [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
 <h3 id='development'>
 
