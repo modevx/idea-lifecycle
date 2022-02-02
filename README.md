@@ -17,7 +17,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -29,7 +29,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -41,7 +41,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -53,7 +53,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -65,7 +65,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -82,7 +82,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -110,7 +110,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -122,7 +122,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -142,7 +142,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
@@ -154,7 +154,7 @@
 
 </h3>
 
-<div align='center'>
+<div align='center' style='font-size: 12px;'>
 
 [Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
 
