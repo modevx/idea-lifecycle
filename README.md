@@ -1,6 +1,6 @@
 ![mobile dev tools repo graphic](./assets/title.png)
 
-- [Coming Up With App Ideas](#finding-ideas) -- find the **_PROBLEM_** first
+- [Coming Up With App Ideas](#finding-ideas) -- love the **_PROBLEM_** - not your app
 - [Validate Your Idea](#app-validation) -- aka. **_INVALIDATE_** your idea
 - [Business](#business) -- treat **_EVERY_** app like one
 - [Manage Your Time](#time-management) -- give yourself a chance to succeed
