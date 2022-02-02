@@ -11,11 +11,11 @@
 - [Analytics](#analytics) -- knowing **_HOW_** people actually use your app = new **_OPPORTUNITES_**
 - [Community](#community) -- succeed **_TOGETHER_**
 
-<h2 id='finding-ideas'>
+<h3 id='finding-ideas'>
 
 ![mobile dev tools repo graphic](./assets/finding-ideas.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -23,11 +23,11 @@
 
 </div>
 
-<h2 id='app-validation'>
+<h3 id='app-validation'>
 
 ![mobile dev tools repo graphic](./assets/validation.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -35,11 +35,11 @@
 
 </div>
 
-<h2 id='business'>
+<h3 id='business'>
 
 ![mobile dev tools repo graphic](./assets/business.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -47,11 +47,11 @@
 
 </div>
 
-<h2 id='time-management'>
+<h3 id='time-management'>
 
 ![mobile dev tools repo graphic](./assets/time-mgmt.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -59,11 +59,11 @@
 
 </div>
 
-<h2 id='design'>
+<h3 id='design'>
 
 ![mobile dev tools repo graphic](./assets/design.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -76,11 +76,11 @@
 - [App quality guidelines](https://developer.android.com/quality)
 - [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
-<h2 id='development'>
+<h3 id='development'>
 
 ![mobile dev tools repo graphic](./assets/development.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -104,11 +104,11 @@
 - [Swift docs](https://developer.apple.com/documentation/swift)
 - [iOS/iPadOS release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
 
-<h2 id='marketing-sales'>
+<h3 id='marketing-sales'>
 
 ![mobile dev tools repo graphic](./assets/sales.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -116,11 +116,11 @@
 
 </div>
 
-<h2 id='publish'>
+<h3 id='publish'>
 
 ![mobile dev tools repo graphic](./assets/publish.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -136,11 +136,11 @@
   - [App Developer Program](https://developer.apple.com/programs/whats-included/)
   - [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
 
-<h2 id='analytics'>
+<h3 id='analytics'>
 
 ![mobile dev tools repo graphic](./assets/analytics.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
@@ -148,11 +148,11 @@
 
 </div>
 
-<h2 id='community'>
+<h3 id='community'>
 
 ![mobile dev tools repo graphic](./assets/community.png)
 
-</h2>
+</h3>
 
 <div align='center'>
 
