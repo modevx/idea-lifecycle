@@ -145,6 +145,10 @@
 
 ## **CONSUMER PSYCHOLOGY**
 
+## **PERSONAL CHANNELS**
+
+## **PUBLIC CHANNELS**
+
 <h3 id='send-it'>
 
 ![mobile dev tools repo graphic](./assets/send-it.png)
@@ -183,6 +187,8 @@
 ## **APP STORE PERFORMANCE**
 
 ## **IN-APP METRICS**
+
+## **SOCIAL MEDIA ANALYTICS**
 
 <h3 id='community'>
 
