@@ -1,76 +1,63 @@
 ![mobile dev tools repo graphic](./assets/title.png)
 
-- [Coming Up With App Ideas](#finding-ideas) -- love the **_PROBLEM_** - not your app
-- [Validate Your Idea](#app-validation) -- aka. **_INVALIDATE_** your idea
-- [Business](#business) -- treat **_EVERY_** app like one
-- [Manage Your Time](#time-management) -- give yourself a chance to succeed
-- [Design](#design) -- create engaging apps, logos, and **_EXPERIENCES_**
-- [Develop the App](#development) -- but do it **_FAST_**
-- [Marketing & Sales](#marketing-sales) -- dev skills + salesmanship = **_SUPER-POWER_**
-- [publish](#publish) -- "published" is just the **_BEGINNING_**
-- [Analytics](#analytics) -- knowing **_HOW_** people actually use your app = new **_OPPORTUNITES_**
+- [Coming Up With App Ideas](#find-ideas) -- love the **_PROBLEM_** - not your app
+- [Validate Your Idea](#validate) -- aka. **_INVALIDATE_** your idea
+- [Plan](#plan) -- treat **_EVERY_** app like one
+- [Visualize](#visualize) -- create engaging apps, logos, and **_EXPERIENCES_**
+- [Build It](#build-it) -- but do it **_FAST_**
+- [Send It!](#send-it) -- "published" is just the **_BEGINNING_**
+- [Sell It](#sell-it) -- dev skills + salesmanship = **_SUPER-POWER_**
+- [Evaluate](#evaluate) -- knowing **_HOW_** people actually use your app = new **_OPPORTUNITES_**
 - [Community](#community) -- succeed **_TOGETHER_**
 
 <h3 id='finding-ideas'>
 
-![mobile dev tools repo graphic](./assets/finding-ideas.png)
+![mobile dev tools repo graphic](./assets/find-ideas.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#find-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
 
-<h3 id='app-validation'>
+<h3 id='validate'>
 
-![mobile dev tools repo graphic](./assets/validation.png)
+![mobile dev tools repo graphic](./assets/validate.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
 
 <h3 id='business'>
 
-![mobile dev tools repo graphic](./assets/business.png)
+![mobile dev tools repo graphic](./assets/plan.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
-
-</div>
-
-<h3 id='time-management'>
-
-![mobile dev tools repo graphic](./assets/time-mgmt.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
 
 - [Azure DevOps Boards](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [Trello](https://trello.com/)
 
-<h3 id='design'>
+<h3 id='visualize'>
 
-![mobile dev tools repo graphic](./assets/design.png)
+![mobile dev tools repo graphic](./assets/visualize.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
 
@@ -80,15 +67,15 @@
 - [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
-<h3 id='development'>
+<h3 id='build-it'>
 
-![mobile dev tools repo graphic](./assets/development.png)
+![mobile dev tools repo graphic](./assets/build-it.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
 
@@ -108,49 +95,58 @@
 - [Swift docs](https://developer.apple.com/documentation/swift)
 - [iOS/iPadOS release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
 
-<h3 id='marketing-sales'>
+<h3 id='sell-it'>
 
-![mobile dev tools repo graphic](./assets/sales.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
-
-</div>
-
-<h3 id='publish'>
-
-![mobile dev tools repo graphic](./assets/publish.png)
+![mobile dev tools repo graphic](./assets/sell-it.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
 
-- GOOGLE PLAY STORE
-  - [Console](https://developer.android.com/distribute/console?hl=ru)
-  - [Services](https://developer.android.com/distribute/play-services?hl=ru)
-- APP STORE
-  - [App Store for Developers](https://developer.apple.com/app-store/)
-  - [App Developer Program](https://developer.apple.com/programs/whats-included/)
-  - [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
+## **CONSUMER PSYCHOLOGY**
 
-<h3 id='analytics'>
+<h3 id='send-it'>
 
-![mobile dev tools repo graphic](./assets/analytics.png)
+![mobile dev tools repo graphic](./assets/send-it.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
+
+## **APPLE**
+
+- [App Store for Developers](https://developer.apple.com/app-store/)
+- [App Developer Program](https://developer.apple.com/programs/whats-included/)
+- [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
+
+## **GOOGLE PLAY**
+
+- [Console](https://developer.android.com/distribute/console?hl=ru)
+- [Services](https://developer.android.com/distribute/play-services?hl=ru)
+
+<h3 id='evaluate'>
+
+![mobile dev tools repo graphic](./assets/evaluate.png)
+
+</h3>
+
+<div align='center' style='font-size: 12px;'>
+
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
+
+</div>
+
+## **APP STORE PERFORMANCE**
+
+## **IN-APP METRICS**
 
 <h3 id='community'>
 
@@ -160,9 +156,17 @@
 
 <div align='center' style='font-size: 12px;'>
 
-[Ideas](#finding-ideas) | [Validation](#app-validation) | [Business](#business) | [Time Mgmt](#time-management) | [Design](#design) | [Development](#development) | [Publish](#publish) | [Marketing](#marketing-sales) | [Analytics](#analytics) | [Community](#community)
+[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
 
 </div>
+
+## **COMPANIES**
+
+## **NEWSLETTERS**
+
+## **PEOPLE**
+
+## **PODCASTS**
 
 - React Native [blog](https://reactnative.dev/blog)
 - React Native [community repo](https://github.com/react-native-community)
@@ -175,3 +179,5 @@
 - [React Wednesdays](https://www.telerik.com/react-wednesdays) on Twitch hosted by [@tjvantoll](https://twitter.com/tjvantoll)
 - [React Native Now](https://reactnativenow.com/issues)
 - [Awesome React Weekly](https://react.libhunt.com/newsletter/archive)
+
+![mobile development tools readme graphic](./assets/connect.png)
