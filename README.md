@@ -87,9 +87,15 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 - evaluate user-testing feedback
 - decide to iterate or start next idea
 
-**BUSINESS PLAN**
+**BIG PICTURE**
 
 - [Lean Canvas]()
+
+**DEVELOPMENT & TESTING**
+
+- [12-Factor App](https://12factor.net/)
+- Architecture Diagrams: [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc), [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/)
+- _(add user testing & feedback)_
 
 **GRAPHIC ASSETS**
 
@@ -100,25 +106,10 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [Trello](https://trello.com/)
 
-**REQUIRED TECH RESOURCES & ARCHITECTURE**
-
-- [12-Factor App](https://12factor.net/)
-
 **UI / UX**
 
 - Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
 - iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-- UI
-- UX
-- Architecture
-
-**DEVELOPMENT & TESTING**
-
-**USER TESTING**
-
-**EVALUATE USER TESTING FEEDBACK**
-
-**ITERATE OR START NEXT IDEA**
 
 **_NOTE TO SELF:_**
 
