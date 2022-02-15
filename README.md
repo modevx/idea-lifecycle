@@ -49,14 +49,6 @@
 
 **CONDUCTING MARKET ANALYSIS**
 
-- current
-
-**2 EARS - 1 MOUTH**
-
-_( you learn more, faster, when you're **not** talking ;)_
-
-**FOLLOW THE MONEY**
-
 **(IN)VALIDATE YOUR IDEA**
 
 **_NOTE TO SELF:_**
@@ -93,42 +85,38 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 - evaluate user-testing feedback
 - decide to iterate or start next idea
 
-**BENCHMARK DATES**
-
-- come up with total process length & **_stick to it._**
-
-  - speed & fancier apps comes with reps
-
-- _Project Management Tools:_
-  - [Azure DevOps Boards](https://azure.microsoft.com/en-us/services/devops/?nav=min)
-  - [Trello](https://trello.com/)
-
 **BUSINESS PLAN**
 
-- Lean Canvas
+- [Lean Canvas]()
 
-**OUTLINE MINIMALISTIC V1 REQUIREMENTS**
+**GRAPHIC ASSETS**
 
-- minimum functionality to obtain user feedback
+- [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
+
+**PROJECT / REQUIREMENTS MANAGEMENT**
+
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+- [Trello](https://trello.com/)
 
 **REQUIRED TECH RESOURCES & ARCHITECTURE**
 
-**WIREFRAMES**
+- [12-Factor App](https://12factor.net/)
 
+**UI / UX**
+
+- Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
+- iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - UI
 - UX
 - Architecture
 
 **DEVELOPMENT & TESTING**
-**USER TESTING**
-**EVALUATE USER TESTING FEEDBACK**
-**ITERATE OR START NEXT IDEA**
 
-- [Material Design guidelines](https://material.io/design)
-- [Material Design components](https://material.io/develop/android)
-- [App quality guidelines](https://developer.android.com/quality)
-- [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-- [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
+**USER TESTING**
+
+**EVALUATE USER TESTING FEEDBACK**
+
+**ITERATE OR START NEXT IDEA**
 
 **_NOTE TO SELF:_**
 
@@ -155,58 +143,29 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 **ENVIRONMENTS**
 
-- [Azure Data Studio]()
-- [Insomnia]()
-- [Postman]()
-- [Visual Studio Code]()
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
+- [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
+- [Postman](https://learning.postman.com/docs/getting-started/introduction/)
+- [Visual Studio Code](https://code.visualstudio.com/docs)
 - [XCode](https://developer.apple.com/documentation/xcode/)
 
 **READ THE F\*CK!NG MANUAL**
 
-- Android Studio [docs](https://developer.android.com/docs)
-
-  - [API reference](https://developer.android.com/reference)
-  - [Build Your First App](https://developer.android.com/training/basics/firstapp)
-  - Kotlin [docs](https://developer.android.com/kotlin)
-
-- Expo [docs](https://docs.expo.io/)
-
-- React Native [docs](http://reactnative.dev/docs/getting-started)
-
-  - [repo](https://github.com/facebook/react-native/)
-  - [community repo](https://github.com/react-native-community)
-  - Community [releases](https://github.com/react-native-community/releases)
-
-- React [docs](https://reactjs.org/docs)
-
-  - [repo](https://github.com/facebook/react)
-
-- [Swift docs](https://developer.apple.com/documentation/swift)
-  - [iOS/iPadOS release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
+- Android: [Android Studio](https://developer.android.com/docs), [API reference](https://developer.android.com/reference), [Kotlin](https://developer.android.com/kotlin)
+- Expo: [docs](https://docs.expo.io/)
+- iOS: [Swift docs](https://developer.apple.com/documentation/swift), [release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
+- React: [docs](https://reactjs.org/docs), [repo](https://github.com/facebook/react)
+- React Native: [docs](http://reactnative.dev/docs/getting-started), [repo](https://github.com/facebook/react-native/), [community repo](https://github.com/react-native-community), [community releases](https://github.com/react-native-community/releases)
 
 **STREAMLINE**
 
-- Project Boilerplate:
-  - project docs
-  - 3rd party data services
-  - state management
-  - data storage
-  - cloud resources
-  - repo / version control
-  - ADO mobile project template
-- Cloud Resources
-- Repo Tempat
-
-- [Ignite](https://github.com/infinitered/ignite) boilerplate by [Infinite Red](https://infinite.red/)
-- [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template) by [The Coding Machine](https://www.thecodingmachine.com/en/home-2/)
-- [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
+- Project Boilerplates: [Ignite](https://github.com/infinitered/ignite), [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template), [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
 
 **_NOTE TO SELF:_**
 
 - value your time. don't be "too smart" to ask for help.
-- ready to rage? do **_anything_** else that you enjoy. ( best if it's **_outside_** )
+- ready to rage? do **_anything_** else that you enjoy. ( even better if it's **_outside_** )
 - slow is smooth. smooth is fast. ( "micro slow - macro fast" )
-  - **_understanding_** what you're using is more import than just getting it to work ( think: front-loaded investment )
 
 <!-- #endregion /BUILD BARE-MINIMUM, TESTABLE VERSION -->
 
@@ -264,12 +223,9 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 **DISTRIBUTION**
 
-- Apple Store for [Developers](https://developer.apple.com/app-store/)
-- Apple [App Developer Program](https://developer.apple.com/programs/whats-included/)
-- Apple Store [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
+- Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
 
-- Google Play Store [Console](https://developer.android.com/distribute/console?hl=ru)
-- Google Play Store [Services](https://developer.android.com/distribute/play-services?hl=ru)
+- Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
 
 **SALES**
 
@@ -321,7 +277,5 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 - [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
 - [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
-
-**USERS**
 
 <!-- #endregion /CONNECT -->
