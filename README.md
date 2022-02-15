@@ -81,7 +81,7 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 </div>
 
-stay focused by being able to see where you're going at any given moment. minimize unecessary decision-making by creating a delivery process template:
+> stay focused by being able to see where you're going at any given moment. minimize unecessary decision-making by creating a delivery process template:
 
 - benchmark dates
 - Lean Canvas business plan (**_every_** app is a business)
@@ -93,16 +93,36 @@ stay focused by being able to see where you're going at any given moment. minimi
 - evaluate user-testing feedback
 - decide to iterate or start next idea
 
-**MICRO SLOW - MACRO FAST**
+**BENCHMARK DATES**
 
-**MOVE WITH A PURPOSE**
+- come up with total process length & **_stick to it._**
 
-- [Azure DevOps Boards](https://azure.microsoft.com/en-us/services/devops/?nav=min)
-- [Trello](https://trello.com/)
+  - speed & fancier apps comes with reps
 
-**DESIGN TO ENGAGE**
+- _Project Management Tools:_
+  - [Azure DevOps Boards](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+  - [Trello](https://trello.com/)
 
-**HUMAN UNIVERSALS**
+**BUSINESS PLAN**
+
+- Lean Canvas
+
+**OUTLINE MINIMALISTIC V1 REQUIREMENTS**
+
+- minimum functionality to obtain user feedback
+
+**REQUIRED TECH RESOURCES & ARCHITECTURE**
+
+**WIREFRAMES**
+
+- UI
+- UX
+- Architecture
+
+**DEVELOPMENT & TESTING**
+**USER TESTING**
+**EVALUATE USER TESTING FEEDBACK**
+**ITERATE OR START NEXT IDEA**
 
 - [Material Design guidelines](https://material.io/design)
 - [Material Design components](https://material.io/develop/android)
@@ -111,6 +131,9 @@ stay focused by being able to see where you're going at any given moment. minimi
 - [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
 **_NOTE TO SELF:_**
+
+- micro-slow, macro-fast
+- when it comes to learning, times practiced trumps time spent. **_it's all about the reps!_**
 
 <!-- #endregion /VISUALIZE -->
 
@@ -128,35 +151,57 @@ stay focused by being able to see where you're going at any given moment. minimi
 
 </div>
 
+> establish a build process that focuses on progress & leaves no time for perfection. otherwise you'll never deliver.
+
 **ENVIRONMENTS**
 
-- [XCode docs](https://developer.apple.com/documentation/xcode/)
+- [Azure Data Studio]()
+- [Insomnia]()
+- [Postman]()
+- [Visual Studio Code]()
+- [XCode](https://developer.apple.com/documentation/xcode/)
 
 **READ THE F\*CK!NG MANUAL**
 
-- []()
+- Android Studio [docs](https://developer.android.com/docs)
+
+  - [API reference](https://developer.android.com/reference)
+  - [Build Your First App](https://developer.android.com/training/basics/firstapp)
+  - Kotlin [docs](https://developer.android.com/kotlin)
+
+- Expo [docs](https://docs.expo.io/)
+
+- React Native [docs](http://reactnative.dev/docs/getting-started)
+
+  - [repo](https://github.com/facebook/react-native/)
+  - [community repo](https://github.com/react-native-community)
+  - Community [releases](https://github.com/react-native-community/releases)
+
+- React [docs](https://reactjs.org/docs)
+
+  - [repo](https://github.com/facebook/react)
+
+- [Swift docs](https://developer.apple.com/documentation/swift)
+  - [iOS/iPadOS release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
 
 **STREAMLINE**
+
+- Project Boilerplate:
+  - project docs
+  - 3rd party data services
+  - state management
+  - data storage
+  - cloud resources
+  - repo / version control
+  - ADO mobile project template
+- Cloud Resources
+- Repo Tempat
 
 - [Ignite](https://github.com/infinitered/ignite) boilerplate by [Infinite Red](https://infinite.red/)
 - [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template) by [The Coding Machine](https://www.thecodingmachine.com/en/home-2/)
 - [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
 
-**TECH**
-
-- React Native [docs](http://reactnative.dev/docs/getting-started)
-- React Native [repo](https://github.com/facebook/react-native/)
-- React [docs](https://reactjs.org/docs)
-- React [repo](https://github.com/facebook/react)
-- [Android Studio docs](https://developer.android.com/docs)
-  - [Build Your First App](https://developer.android.com/training/basics/firstapp)
-- [Kotlin docs](https://developer.android.com/kotlin)
-- [Android API reference](https://developer.android.com/reference)
-- Expo [docs](https://docs.expo.io/)
-- [Swift docs](https://developer.apple.com/documentation/swift)
-  - [iOS/iPadOS release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
-
-**_ADVICE_**
+**_NOTE TO SELF:_**
 
 - value your time. don't be "too smart" to ask for help.
 - ready to rage? do **_anything_** else that you enjoy. ( best if it's **_outside_** )
@@ -179,7 +224,7 @@ stay focused by being able to see where you're going at any given moment. minimi
 
 </div>
 
-- **_awareness_** is key. reflect on & review **_all_** aspects of every process. wash. rinse. repeat.
+> **_awareness_** is key. reflect on & review **_all_** aspects of every process. wash. rinse. repeat.
 
 **APP PERFORMANCE IN STORES**
 
@@ -254,32 +299,29 @@ stay focused by being able to see where you're going at any given moment. minimi
 
 </div>
 
-**COMPANIES**
-
-**USERS**
-
-- React Native [blog](https://reactnative.dev/blog)
+> to build anything of significance, you need to connect with the users & the dev community
 
 **INFORMATION / NEWS**
 
-- React Native [community repo](https://github.com/react-native-community)
-- React Native Community [releases](https://github.com/react-native-community/releases)
-
 - [Awesome React Weekly](https://react.libhunt.com/newsletter/archive)
-- [React Wednesdays](https://www.telerik.com/react-wednesdays) on Twitch hosted by [@tjvantoll](https://twitter.com/tjvantoll)
+- [React Podcast](https://reactpodcast.simplecast.com/)
+- [React Round Up](https://devchat.tv/podcasts/react-round-up/)
+- [React Wednesdays](https://www.telerik.com/react-wednesdays)
+- [React Native blog](https://reactnative.dev/blog)
 - [React Native Now](https://reactnativenow.com/issues)
+- [React Native Radio](https://reactnativeradio.com/)
+- [The React Native Show](https://callstack.com/podcast-react-native-show)
 
-**OPEN-SOURCE PROJECTS**
+**MOBILE DEV COMPANIES**
 
+- [Callstack.io](https://www.callstack.com/)
+- [Infinite Red](https://infinite.red/)
+
+**OPEN-SOURCE**
+
+- [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
 - [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
 
-**INDIVIDUALS**
-
-**PODCASTS**
-
-- [The React Native Show](https://callstack.com/podcast-react-native-show) hosted by [Callstack](https://callstack.com/)
-- [React Native Radio](https://reactnativeradio.com/) hosted by [Infinite Red](http://infinite.red/)
-- [React Round Up](https://devchat.tv/podcasts/react-round-up/) by [devchat.tv](https://devchat.tv/)
-- [React Podcast](https://reactpodcast.simplecast.com/) hosted by [React Training](https://reacttraining.com/)
+**USERS**
 
 <!-- #endregion /CONNECT -->
