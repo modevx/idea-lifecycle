@@ -1,27 +1,33 @@
-![mobile dev tools repo graphic](./assets/title.png)
+<!-- #region INDEX -->
 
-- [Find Ideas](#find-ideas) ( love the **_PROBLEM_** - not your app )
-- [Validate Your Idea](#validate) ( aka. **_INVALIDATE_** your idea )
-- [Plan](#plan) ( productivity is lost in **_UNPLANNED_** time )
+![mobile dev tools repo graphic](./assets/md_title.png)
+
+- [Find & Validate](#find) ( love the **_PROBLEM_** - not your app )
 - [Visualize](#visualize) ( create engaging apps, logos, and **_EXPERIENCES_** )
-- [Build It](#build-it) ( streamline your process & fail **_FAST_** )
-- [Send It!](#send-it) ( "published" is just the **_BEGINNING_** )
-- [Sell It](#sell-it) ( dev skills + ability to communicate value = **_SUPER-POWER_** )
+- [Build](#build) ( streamline your process & fail **_FAST_** )
 - [Evaluate](#evaluate) ( understand **_HOW_** people are using your app )
-- [Community](#community) ( stay in-the-know )
+- [Market & Sell](#market)
 - [Connect](#connect) ( learn, build, & succeed faster **_TOGETHER_** )
 
-<h3 id='finding-ideas'>
+<!-- #endregion /INDEX -->
 
-![mobile dev tools repo graphic](./assets/find-ideas.png)
+<!-- #region FIND & VALIDATE -->
+
+<h3 id='find'>
+
+![mobile dev tools repo graphic](./assets/md_find.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Find Ideas](#find-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+> [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
 
 </div>
+
+- _where & how to identify needs in the market_
+- _objective market analysis_
+- _Lean Canvas - don't worry about monetization until you have something you can monetize_
 
 ## **LOVE PROBLEMS - NOT APPS**
 
@@ -29,29 +35,23 @@
 
 ## **FOLLOW THE MONEY**
 
-<h3 id='validate'>
-
-![mobile dev tools repo graphic](./assets/validate.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
-
-</div>
-
 ## **( IN )VALIDATE YOUR IDEA**
 
-<h3 id='plan'>
+<!-- #endregion /FIND & VALIDATE -->
 
-![mobile dev tools repo graphic](./assets/plan.png)
+<!-- #region VISUALIZE -->
+
+- _schedule out benchmarks, outline UX, wireframe UI ( bare-minimum user-testable version for v1 )_
+
+<h3 id='visualize'>
+
+![mobile dev tools repo graphic](./assets/md_visualize.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
+> [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
 
 </div>
 
@@ -61,18 +61,6 @@
 
 - [Azure DevOps Boards](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [Trello](https://trello.com/)
-
-<h3 id='visualize'>
-
-![mobile dev tools repo graphic](./assets/visualize.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
-
-</div>
 
 ## **DESIGN TO ENGAGE**
 
@@ -84,15 +72,19 @@
 - [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
-<h3 id='build-it'>
+<!-- #endregion /VISUALIZE -->
 
-![mobile dev tools repo graphic](./assets/build-it.png)
+<!-- #region BUILD BARE-MINIMUM, TESTABLE VERSION -->
+
+<h3 id='build'>
+
+![mobile dev tools repo graphic](./assets/md_build.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
+> [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
 
 </div>
 
@@ -131,15 +123,43 @@
 - slow is smooth. smooth is fast. ( "micro slow - macro fast" )
   - **_understanding_** what you're using is more import than just getting it to work ( think: front-loaded investment )
 
-<h3 id='sell-it'>
+<!-- #endregion /BUILD BARE-MINIMUM, TESTABLE VERSION -->
 
-![mobile dev tools repo graphic](./assets/sell-it.png)
+<!-- #region EVALUATE -->
+
+- _user-test, collect feedback, use feedback to iterate on or kill idea_
+
+<h3 id='evaluate'>
+
+![mobile dev tools repo graphic](./assets/md_evaluate.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
+> [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+
+</div>
+
+## **APP STORE PERFORMANCE**
+
+## **IN-APP METRICS**
+
+## **SOCIAL MEDIA ANALYTICS**
+
+<!-- #endregion /EVALUATE -->
+
+<!-- #region MARKET & SELL -->
+
+<h3 id='market'>
+
+![mobile dev tools repo graphic](./assets/md_market.png)
+
+</h3>
+
+<div align='center' style='font-size: 12px;'>
+
+> [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
 
 </div>
 
@@ -148,18 +168,6 @@
 ## **PERSONAL CHANNELS**
 
 ## **PUBLIC CHANNELS**
-
-<h3 id='send-it'>
-
-![mobile dev tools repo graphic](./assets/send-it.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
-
-</div>
 
 ## **APPLE**
 
@@ -172,33 +180,19 @@
 - [Console](https://developer.android.com/distribute/console?hl=ru)
 - [Services](https://developer.android.com/distribute/play-services?hl=ru)
 
-<h3 id='evaluate'>
+<!-- #endregion /MARKET & SELL -->
 
-![mobile dev tools repo graphic](./assets/evaluate.png)
+<!-- #region CONNECT -->
 
-</h3>
+<h3 id='connect'>
 
-<div align='center' style='font-size: 12px;'>
-
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
-
-</div>
-
-## **APP STORE PERFORMANCE**
-
-## **IN-APP METRICS**
-
-## **SOCIAL MEDIA ANALYTICS**
-
-<h3 id='community'>
-
-![mobile dev tools repo graphic](./assets/community.png)
+![mobile dev tools repo graphic](./assets/md_connect.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Find Ideas](#finding-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community)
+> [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
 
 </div>
 
@@ -230,14 +224,4 @@
 - [React Round Up](https://devchat.tv/podcasts/react-round-up/) by [devchat.tv](https://devchat.tv/)
 - [React Podcast](https://reactpodcast.simplecast.com/) hosted by [React Training](https://reacttraining.com/)
 
-<h3 id='connect'>
-
-![mobile dev tools repo graphic](./assets/connect.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Find Ideas](#find-ideas) | [Validate](#validate) | [Plan](#plan) | [Visualize](#visualize) | [Build It](#build-it) | [Send It!](#send-it) | [Sell It](#sell-it) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
-
-</div>
+<!-- #endregion /CONNECT -->
