@@ -12,6 +12,8 @@
 
 </div>
 
+_This repo started as a personal reference, so a lot of the notes & wording are directed at me. The goal though is to document my process as it evolves. That said, I broke the resources down by project lifecycle phase._
+
 1. [`Find & Validate`](#find) _high-potential mobile app opportunities_
 2. [`Visualize`](#visualize) _an engaging UI, intuitive UX & project roadmap_
 3. [`Build`](#build) _a bare minimum, user-testable v1_
