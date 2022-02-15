@@ -12,12 +12,12 @@
 
 </div>
 
-- [`Find & Validate`](#find) _high-potential mobile app opportunities_
-- [`Visualize`](#visualize) _an engaging UI, intuitive UX & project roadmap_
-- [`Build`](#build) _a bare minimum, user-testable v1_
-- [`Evaluate`](#evaluate) _user feedback, product market fit, process opportunities, personal performance, to iterate or kill project_
-- [`Market & Sell`](#market) _to targeted users in personal & public channels_
-- [`Connect`](#connect) _with users, other mobile devs, experienced mentors_
+1. [`Find & Validate`](#find) _high-potential mobile app opportunities_
+2. [`Visualize`](#visualize) _an engaging UI, intuitive UX & project roadmap_
+3. [`Build`](#build) _a bare minimum, user-testable v1_
+4. [`Evaluate`](#evaluate) _user feedback, product market fit, process opportunities, personal performance, to iterate or kill project_
+5. [`Market & Sell`](#market) _to targeted users in personal & public channels_
+6. [`Connect`](#connect) _with users, other mobile devs, experienced mentors_
 
 <!-- #endregion /INDEX -->
 
