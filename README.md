@@ -12,14 +12,19 @@
 
 </div>
 
-_This repo started as a personal reference, so a lot of the notes & wording are directed at me. The goal though is to document my process as it evolves. That said, I broke the resources down by project lifecycle phase._
+<div align='center'>
 
-1. [`App Ideas`](#ideas) _high-potential mobile app opportunities_
-2. [`Visualize`](#visualize) _an engaging UI, intuitive UX & project roadmap_
-3. [`Build`](#build) _a bare minimum, user-testable v1_
-4. [`Evaluate`](#evaluate) _user feedback, product market fit, process opportunities, personal performance, to iterate or kill project_
-5. [`Market & Sell`](#market) _to targeted users in personal & public channels_
-6. [`Connect`](#connect) _with users, other mobile devs, experienced mentors_
+_Originally, I created this repo for keeping track of all the mobile dev resources I use/found. Like a gremlin, it grew into it's own monster and became kind of a mobile-app business outline. Any notes you see in here are written for me, so don't be offended. I'm brutally honest with myself;)_
+
+</div>
+
+1. [`App Ideas`](#ideas) &nbsp;&nbsp;|&nbsp;&nbsp; no guessing - systematic approach to identifying & validating .market opportunities
+2. [`Visualize`](#visualize) &nbsp;&nbsp;|&nbsp;&nbsp; visualize the solution. visualize the finishline.
+3. [`Build`](#build) &nbsp;&nbsp;|&nbsp;&nbsp; get feedback from users ASAFP.
+4. [`Evaluate`](#evaluate) &nbsp;&nbsp;|&nbsp;&nbsp; user feedback, product market fit, processes, personal performance (habits)
+5. [`Market & Sell`](#market) &nbsp;&nbsp;|&nbsp;&nbsp; clearly & quickly communicate how your app satifies their need.
+6. [`Community`](#community) &nbsp;&nbsp;|&nbsp;&nbsp; every ultra-successful person in the world needs a team & mentor(s). you're not special.
+7. [`Connect`](#connect)&nbsp;&nbsp;|&nbsp;&nbsp; build the team.
 
 <!-- #endregion /INDEX -->
 
@@ -37,7 +42,11 @@ _This repo started as a personal reference, so a lot of the notes & wording are 
 
 </div>
 
+<div align='center'>
+
 _Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
+
+</div>
 
 **MOBILE ANALYTICS & STATS**
 
@@ -70,7 +79,11 @@ _Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
 
 </div>
 
-_Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating a system that keeps you focused on the finish line._
+<div align='center'>
+
+_Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating a system that keeps you focused on the current step's primary objective._
+
+</div>
 
 - benchmark dates
 - Lean Canvas business plan (**_every_** app is a business)
@@ -113,7 +126,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <!-- #endregion /VISUALIZE -->
 
-<!-- #region BUILD BARE-MINIMUM, TESTABLE VERSION -->
+<!-- #region BUILD -->
 
 <h3 id='build'>
 
@@ -127,7 +140,11 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 </div>
 
+<div align='center'>
+
 _Establish a build process that focuses on progress & leaves no time for perfection. "Perfect" is the enemy of "done"._
+
+</div>
 
 **ENVIRONMENTS**
 
@@ -156,7 +173,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 > - slow is smooth. smooth is fast. ( "micro slow - macro fast" )
 > - [ work on your EQ, Smith ]
 
-<!-- #endregion /BUILD BARE-MINIMUM, TESTABLE VERSION -->
+<!-- #endregion /BUILD -->
 
 <!-- #region EVALUATE -->
 
@@ -172,7 +189,11 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 </div>
 
-**_Awareness_** is the differentiator. Reflect on & review **_every_** step of every process. wash. rinse. repeat.
+<div align='center'>
+
+**_Awareness_** is the differentiator. Reflect on & critique **_every_** step of every process. wash. rinse. repeat.
+
+</div>
 
 **APP PERFORMANCE IN STORES**
 
@@ -197,6 +218,14 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 <div align='center' style='font-size: 12px;'>
 
 [App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+
+</div>
+
+<div align='center'>
+
+_You're not building a mobile app. You're building a solution to someone's need, want, or desire. Be obnoxiously clear about the problem that the app solves. Feature. Advantage. Benefit._
+
+_"I **NEED** that!" vs. "What does it do, again?"_
 
 </div>
 
@@ -246,7 +275,11 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 </div>
 
-_To build anything of significance, you need to connect with the users & people a lot than you._
+<div align='center'>
+
+_To build anything of significance, you need to connect with the users & people who are smarter & more experienced than you._
+
+</div>
 
 **INFORMATION / NEWS**
 
@@ -282,6 +315,12 @@ _To build anything of significance, you need to connect with the users & people 
 <div align='center' style='font-size: 12px;'>
 
 [App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+
+</div>
+
+<div align='center'>
+
+_Build the network. Succeed together._
 
 </div>
 
