@@ -8,13 +8,13 @@
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
 _This repo started as a personal reference, so a lot of the notes & wording are directed at me. The goal though is to document my process as it evolves. That said, I broke the resources down by project lifecycle phase._
 
-1. [`Find & Validate`](#find) _high-potential mobile app opportunities_
+1. [`App Ideas`](#ideas) _high-potential mobile app opportunities_
 2. [`Visualize`](#visualize) _an engaging UI, intuitive UX & project roadmap_
 3. [`Build`](#build) _a bare minimum, user-testable v1_
 4. [`Evaluate`](#evaluate) _user feedback, product market fit, process opportunities, personal performance, to iterate or kill project_
@@ -23,27 +23,21 @@ _This repo started as a personal reference, so a lot of the notes & wording are 
 
 <!-- #endregion /INDEX -->
 
-<!-- #region FIND & VALIDATE -->
+<!-- #region APP IDEAS -->
 
-<h3 id='find'>
+<h3 id='ideas'>
 
-![mobile dev tools repo graphic](./assets/md_find.png)
+![mobile dev tools repo graphic](./assets/ideas.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
-> **_create a system to quickly identify & validate ( invalidate ) app ideas_**
->
-> - know mobile analytics & stats inside & out
->   - what apps are getting the most engagements ( **_not_** downloads )
->   - what apps are making the most money ( and what's their pricing model )
-> - identify existing user pain points
-> - conduct **_objective_** market analysis
+_Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
 
 **MOBILE ANALYTICS & STATS**
 
@@ -53,13 +47,14 @@ _This repo started as a personal reference, so a lot of the notes & wording are 
 
 **(IN)VALIDATE YOUR IDEA**
 
-**_NOTE TO SELF:_**
-_if I'm in this for the long run, I have to be the most objective person in the process_
+> **_NOTE TO SELF:_**
+>
+> _if I'm in this for the long haul, I have to be the most objective person in the process_
+>
+> - build interest/user base **_then_** worry about monetizing
+> - love the problem, not the idea
 
-- build interest/user base **_then_** worry about monetizing
-- love the problem, not the idea
-
-<!-- #endregion /FIND & VALIDATE -->
+<!-- #endregion /APP IDEAS -->
 
 <!-- #region VISUALIZE -->
 
@@ -71,11 +66,11 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
-> stay focused by being able to see where you're going at any given moment. minimize unecessary decision-making by creating a delivery process template:
+_Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating a system that keeps you focused on the finish line._
 
 - benchmark dates
 - Lean Canvas business plan (**_every_** app is a business)
@@ -111,10 +106,10 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 - Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
 - iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
-**_NOTE TO SELF:_**
-
-- micro-slow, macro-fast
-- when it comes to learning, times practiced trumps time spent. **_it's all about the reps!_**
+> **_NOTE TO SELF:_**
+>
+> - micro-slow, macro-fast
+> - when it comes to learning, times practiced trumps time spent. **_it's all about the reps!_**
 
 <!-- #endregion /VISUALIZE -->
 
@@ -128,11 +123,11 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
-> establish a build process that focuses on progress & leaves no time for perfection. otherwise you'll never deliver.
+_Establish a build process that focuses on progress & leaves no time for perfection. "Perfect" is the enemy of "done"._
 
 **ENVIRONMENTS**
 
@@ -154,11 +149,12 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 - Project Boilerplates: [Ignite](https://github.com/infinitered/ignite), [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template), [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
 
-**_NOTE TO SELF:_**
-
-- value your time. don't be "too smart" to ask for help.
-- ready to rage? do **_anything_** else that you enjoy. ( even better if it's **_outside_** )
-- slow is smooth. smooth is fast. ( "micro slow - macro fast" )
+> **_NOTE TO SELF:_**
+>
+> - value your time. smart people to ask for help.
+> - ready to rage? do **_anything_** else. ( to calm you down )
+> - slow is smooth. smooth is fast. ( "micro slow - macro fast" )
+> - [ work on your EQ, Smith ]
 
 <!-- #endregion /BUILD BARE-MINIMUM, TESTABLE VERSION -->
 
@@ -172,11 +168,11 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
-> **_awareness_** is key. reflect on & review **_all_** aspects of every process. wash. rinse. repeat.
+**_Awareness_** is the differentiator. Reflect on & review **_every_** step of every process. wash. rinse. repeat.
 
 **APP PERFORMANCE IN STORES**
 
@@ -200,7 +196,7 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -232,23 +228,25 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 - Sales Tracking
 
+- [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
+
 <!-- #endregion /MARKET & SELL -->
 
-<!-- #region CONNECT -->
+<!-- #region COMMUNITY -->
 
-<h3 id='connect'>
+<h3 id='community'>
 
-![mobile dev tools repo graphic](./assets/md_connect.png)
+![mobile dev tools repo graphic](./assets/community.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-**[^ BACK TO TOP ^](#top)** | [Find & Validate](#find) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Connect](#connect)
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
 
 </div>
 
-> to build anything of significance, you need to connect with the users & the dev community
+_To build anything of significance, you need to connect with the users & people a lot than you._
 
 **INFORMATION / NEWS**
 
@@ -270,5 +268,31 @@ _if I'm in this for the long run, I have to be the most objective person in the 
 
 - [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
 - [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
+
+<!-- #endregion /COMMUNITY -->
+
+<!-- #region CONNECT -->
+
+<h3 id='connect'>
+
+![mobile dev tools repo graphic](./assets/connect.png)
+
+</h3>
+
+<div align='center' style='font-size: 12px;'>
+
+[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+
+</div>
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="90"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="90"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="90"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="90"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="90"></a></td>
+  </tr>
+</table>
 
 <!-- #endregion /CONNECT -->
