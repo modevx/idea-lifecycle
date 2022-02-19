@@ -146,9 +146,11 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 </div>
 
-**ENVIRONMENTS**
+**ENVIRONMENTS & TOOLS**
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
+- [Flipper](https://fbflipper.com/)
+- [Reactotron](https://github.com/infinitered/reactotron)
 - [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
 - [Visual Studio Code](https://code.visualstudio.com/docs)
