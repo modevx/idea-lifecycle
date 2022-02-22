@@ -146,7 +146,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 </div>
 
-**ENVIRONMENTS & TOOLS**
+**DEV ENVIRONMENTS**
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
 - [Flipper](https://fbflipper.com/)
@@ -167,6 +167,10 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 **STREAMLINE**
 
 - Project Boilerplates: [Ignite](https://github.com/infinitered/ignite), [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template), [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
+
+**TOOLS**
+
+- [url encoding](https://ascii.cl/url-encoding.htm)
 
 > **_NOTE TO SELF:_**
 >
