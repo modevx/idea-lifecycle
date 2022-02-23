@@ -112,6 +112,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 **PROJECT / REQUIREMENTS MANAGEMENT**
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+- [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [Trello](https://trello.com/)
 
 **UI / UX**
