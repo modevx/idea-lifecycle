@@ -164,6 +164,9 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 - iOS: [Swift docs](https://developer.apple.com/documentation/swift), [release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
 - React: [docs](https://reactjs.org/docs), [repo](https://github.com/facebook/react)
 - React Native: [docs](http://reactnative.dev/docs/getting-started), [repo](https://github.com/facebook/react-native/), [community repo](https://github.com/react-native-community), [community releases](https://github.com/react-native-community/releases)
+  - repo | [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
+  - repo | [`react-native-vector-icons`](https://github.com/oblador/react-native-vector-icons)
+    - searchable [icon directory](https://oblador.github.io/react-native-vector-icons/)
 
 **STREAMLINE**
 
