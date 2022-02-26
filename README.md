@@ -18,7 +18,7 @@ _Originally, I created this repo for keeping track of all the mobile dev resourc
 
 </div>
 
-1. [`App Ideas`](#ideas) &nbsp;&nbsp;|&nbsp;&nbsp; no guessing - systematic approach to identifying & validating .market opportunities
+1. [`App Ideas`](#ideas) &nbsp;&nbsp;|&nbsp;&nbsp; no guessing - systematic approach to identifying & validating market opportunities
 2. [`Visualize`](#visualize) &nbsp;&nbsp;|&nbsp;&nbsp; visualize the solution. visualize the finishline.
 3. [`Build`](#build) &nbsp;&nbsp;|&nbsp;&nbsp; get feedback from users ASAFP.
 4. [`Evaluate`](#evaluate) &nbsp;&nbsp;|&nbsp;&nbsp; user feedback, product market fit, processes, personal performance (habits)
@@ -166,7 +166,17 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 - React Native: [docs](http://reactnative.dev/docs/getting-started), [repo](https://github.com/facebook/react-native/), [community repo](https://github.com/react-native-community), [community releases](https://github.com/react-native-community/releases)
   - repo | [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
   - repo | [`react-native-vector-icons`](https://github.com/oblador/react-native-vector-icons)
+  - repo | [`Icon` component](https://github.com/oblador/react-native-vector-icons#icon-component)
     - searchable [icon directory](https://oblador.github.io/react-native-vector-icons/)
+
+**SUBJECT MATTER EXPERTS**
+
+- HTML / CSS
+  - [Kevin Powel](https://www.youtube.com/kepowob)
+- JAVASCRIPT
+  - [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
+- REACT
+  - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
 
 **STREAMLINE**
 
