@@ -2,7 +2,7 @@
 
 <div id='top'>
 
-![mobile dev tools repo graphic](./assets/md_title.png)
+![readme section graphic](./assets/md_title.png)
 
 </div>
 
@@ -28,11 +28,11 @@ _Originally, I created this repo for keeping track of all the mobile dev resourc
 
 <!-- #endregion /INDEX -->
 
-<!-- #region APP IDEAS -->
+<!-- #region DISCOVER -->
 
-<h3 id='ideas'>
+<h3 id='discover'>
 
-![mobile dev tools repo graphic](./assets/ideas.png)
+![readme section graphic](./assets/discover.png)
 
 </h3>
 
@@ -48,13 +48,31 @@ _Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
 
 </div>
 
-**MOBILE ANALYTICS & STATS**
+## **MOBILE INDUSTRY STATS**
 
-**EXISTING USER PAIN POINTS**
+constant awareness of where consumers spend their money
 
-**CONDUCTING MARKET ANALYSIS**
+- [data.ai](https://www.data.ai/en/apps/ios/top/store-rank/feed/free/united-states/overall/ios-phone/) -- free analytics availabe w/out having to signup
 
-**(IN)VALIDATE YOUR IDEA**
+## **EXISTING APPS**
+
+what do people like / dislike about existing solutions
+
+- [Google Play Store](https://play.google.com/store/apps/top) appreviews
+- [Apple Store]() app reviews
+  - [theappstore.org](https://theappstore.org/) - requires turning off ad-blockers
+  - [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - endpoint for searching
+  - [find.io](https://fnd.io/#/us/charts/iphone/top-grossing/all) - lets you search the iOS app charts without having to open iTunes on your device
+
+## **VALIDATE THE IDEA**
+
+objectively attempt to INVALIDATE your idea - if you can't, it's game on
+
+- **LEAN CANVAS**
+
+- **COMPETITIVE MARKET ANALYSIS**
+
+- **SWAT**
 
 > **_NOTE TO SELF:_**
 >
@@ -63,13 +81,13 @@ _Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
 > - build interest/user base **_then_** worry about monetizing
 > - love the problem, not the idea
 
-<!-- #endregion /APP IDEAS -->
+<!-- #endregion /DISCOVER -->
 
 <!-- #region VISUALIZE -->
 
 <h3 id='visualize'>
 
-![mobile dev tools repo graphic](./assets/md_visualize.png)
+![readme section graphic](./assets/md_visualize.png)
 
 </h3>
 
@@ -133,7 +151,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <h3 id='build'>
 
-![mobile dev tools repo graphic](./assets/md_build.png)
+![readme section graphic](./assets/md_build.png)
 
 </h3>
 
@@ -149,7 +167,19 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 </div>
 
-**DEV ENVIRONMENTS**
+## **DEVELOPER ACCOUNTS**
+
+- **iOS**
+
+  - [Apple Developer Program](https://developer.apple.com/)
+    - enrollment [requirements](https://developer.apple.com/programs/enroll/)
+    - Apple [Agreements & Guidelines](https://developer.apple.com/support/terms/#apple-developer-agreement)
+  - App Store [Small Business Program](https://developer.apple.com/app-store/small-business-program/)
+  - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
+
+- **ANDROID**
+
+## **DEV ENVIRONMENTS**
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
 - [Flipper](https://fbflipper.com/)
@@ -159,7 +189,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [XCode](https://developer.apple.com/documentation/xcode/)
 
-**READ THE F\*CK!NG MANUAL**
+## **READ THE F\*CK!NG MANUAL**
 
 - Android: [Android Studio](https://developer.android.com/docs), [API reference](https://developer.android.com/reference), [Kotlin](https://developer.android.com/kotlin)
 - Expo: [docs](https://docs.expo.io/)
@@ -171,7 +201,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
   - repo | [`Icon` component](https://github.com/oblador/react-native-vector-icons#icon-component)
     - searchable [icon directory](https://oblador.github.io/react-native-vector-icons/)
 
-**SUBJECT MATTER EXPERTS**
+## **SUBJECT MATTER EXPERTS**
 
 - HTML / CSS
   - [Kevin Powel](https://www.youtube.com/kepowob)
@@ -180,11 +210,11 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 - REACT
   - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
 
-**STREAMLINE**
+## **STREAMLINE**
 
 - Project Boilerplates: [Ignite](https://github.com/infinitered/ignite), [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template), [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
 
-**TOOLS**
+## **TOOLS**
 
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
@@ -197,43 +227,11 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 <!-- #endregion /BUILD -->
 
-<!-- #region EVALUATE -->
-
-<h3 id='evaluate'>
-
-![mobile dev tools repo graphic](./assets/md_evaluate.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-**_Awareness_** is the differentiator. Reflect on & critique **_every_** step of every process. wash. rinse. repeat.
-
-</div>
-
-**APP PERFORMANCE IN STORES**
-
-**COMMUNITY ENGAGEMENT**
-
-**IN-APP USER METRICS**
-
-**PERSONAL HABITS & PROCESSES**
-
-**WEB PRESENCE**
-
-<!-- #endregion /EVALUATE -->
-
-<!-- #region MARKET & SELL -->
+<!-- #region PROMOTE -->
 
 <h3 id='market'>
 
-![mobile dev tools repo graphic](./assets/md_market.png)
+![readme section graphic](./assets/promote.png)
 
 </h3>
 
@@ -281,13 +279,69 @@ _"I **NEED** that!" vs. "What does it do, again?"_
 
 - [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
 
-<!-- #endregion /MARKET & SELL -->
+<!-- #endregion /PROMOTE -->
+
+<!-- #region DISTRIBUTE -->
+
+<h3 id='distribute'>
+
+![readme section graphic](./assets/distribute.png)
+
+</h3>
+
+<div align='center' style='font-size: 12px;'>
+
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+
+</div>
+
+<div align='center'>
+
+_You're not building a mobile app. You're building a solution to someone's need, want, or desire. Be obnoxiously clear about the problem that the app solves. Feature. Advantage. Benefit._
+
+_"I **NEED** that!" vs. "What does it do, again?"_
+
+</div>
+
+<!-- #endregion /DISTRIBUTE -->
+
+<!-- #region EVALUATE -->
+
+<h3 id='evaluate'>
+
+![readme section graphic](./assets/md_evaluate.png)
+
+</h3>
+
+<div align='center' style='font-size: 12px;'>
+
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+
+</div>
+
+<div align='center'>
+
+**_Awareness_** is the differentiator. Reflect on & critique **_every_** step of every process. wash. rinse. repeat.
+
+</div>
+
+**APP PERFORMANCE IN STORES**
+
+**COMMUNITY ENGAGEMENT**
+
+**IN-APP USER METRICS**
+
+**PERSONAL HABITS & PROCESSES**
+
+**WEB PRESENCE**
+
+<!-- #endregion /EVALUATE -->
 
 <!-- #region COMMUNITY -->
 
 <h3 id='community'>
 
-![mobile dev tools repo graphic](./assets/community.png)
+![readme section graphic](./assets/community.png)
 
 </h3>
 
@@ -330,7 +384,7 @@ _To build anything of significance, you need to connect with the users & people 
 
 <h3 id='connect'>
 
-![mobile dev tools repo graphic](./assets/connect.png)
+![readme section graphic](./assets/connect.png)
 
 </h3>
 
