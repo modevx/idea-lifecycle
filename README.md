@@ -8,7 +8,7 @@
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -18,7 +18,7 @@ _Originally, I created this repo for keeping track of all the mobile dev resourc
 
 </div>
 
-1. [`App Ideas`](#ideas) &nbsp;&nbsp;|&nbsp;&nbsp; no guessing - systematic approach to identifying & validating market opportunities
+1. [`App Ideas`](#discover) &nbsp;&nbsp;|&nbsp;&nbsp; no guessing - systematic approach to identifying & validating market opportunities
 2. [`Visualize`](#visualize) &nbsp;&nbsp;|&nbsp;&nbsp; visualize the solution. visualize the finishline.
 3. [`Build`](#build) &nbsp;&nbsp;|&nbsp;&nbsp; get feedback from users ASAFP.
 4. [`Evaluate`](#evaluate) &nbsp;&nbsp;|&nbsp;&nbsp; user feedback, product market fit, processes, personal performance (habits)
@@ -38,7 +38,7 @@ _Originally, I created this repo for keeping track of all the mobile dev resourc
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -75,7 +75,7 @@ _Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -99,7 +99,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 - [Lean Canvas]()
 
-**DEVELOPMENT & TESTING**
+**TECHNICAL REQUIREMENT**
 
 - [12-Factor App](https://12factor.net/)
 - Architecture Diagrams: [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc), [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/)
@@ -109,13 +109,15 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 - [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
-**PROJECT / REQUIREMENTS MANAGEMENT**
+**PROJECT LIFECYCLE**
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [Trello](https://trello.com/)
 
-**UI / UX**
+**USER EXPERIENCE**
+
+**USER INTERFACE**
 
 - Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
 - iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
@@ -137,7 +139,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -205,7 +207,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -237,7 +239,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -291,7 +293,7 @@ _"I **NEED** that!" vs. "What does it do, again?"_
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -334,7 +336,7 @@ _To build anything of significance, you need to connect with the users & people 
 
 <div align='center' style='font-size: 12px;'>
 
-[App Ideas](#ideas) | [Visualize](#visualize) | [Build](#build) | [Evaluate](#evaluate) | [Market & Sell](#market) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
