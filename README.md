@@ -8,7 +8,7 @@
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -17,6 +17,8 @@
 _Originally, I created this repo for keeping track of all the mobile dev resources I use / find. Like a gremlin, it grew into it's own little monster. Now it's more of a personal mobile-app business playbook._
 
 </div>
+
+[`Getting Started`](#start)
 
 Phase #1: [`Discover`](#discover)
 
@@ -36,6 +38,50 @@ Phase #6: [`Evaluate`](#evaluate)
 
 <!-- #endregion /INDEX -->
 
+<!-- #region GETTING STARTED -->
+
+<h3 id='start'>
+
+![readme section graphic](./assets/start.png)
+
+</h3>
+
+<div align='center' style='font-size: 12px;'>
+
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+
+</div>
+
+<div align='center'>
+
+_Getting started is the hardest part. No excuses._
+
+</div>
+
+## **PROTECT YOUR ASS(ETS)**
+
+- _setting up an LLC / corp._
+
+## **MENTAL APPROACH**
+
+- _First few ( and then some ) ideas, apps, processes will be garbage. Just get the reps in ASAFP!_
+
+## **HAVE A SYSTEM** ( for _EVERYTHING_ )
+
+- _finding ideas_
+- _visualizing the finishline ( EVERY TIME )_
+- _building fast to start the feedback loop ASAP_
+- _promote ( aka: communicate value )_
+- _get your SOLUTION in the hands of users FAST_
+- _maintain awareness of what's working & what's not_
+
+## **APP STORE ACCOUNTS**
+
+- _Apple App Store_
+- _Google Play Store_
+
+<!-- #endregion /GETTING STARTED -->
+
 <!-- #region DISCOVER -->
 
 <h3 id='discover'>
@@ -46,7 +92,7 @@ Phase #6: [`Evaluate`](#evaluate)
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -101,7 +147,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's game on
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -163,7 +209,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -243,7 +289,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -297,7 +343,7 @@ _"I **NEED** that!" vs. "What does it do, again?"_
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -319,7 +365,7 @@ _Consistent. Fast. Efficient._
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -351,7 +397,7 @@ _Consistent. Fast. Efficient._
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -394,7 +440,7 @@ _To build anything of significance, you need to connect with the users & people 
 
 <div align='center' style='font-size: 12px;'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
