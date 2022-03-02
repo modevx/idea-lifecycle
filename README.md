@@ -14,7 +14,7 @@
 
 <div align='center'>
 
-_Originally, I created this repo for keeping track of all the mobile dev resources I use/found. Like a gremlin, it grew into it's own monster and became kind of a mobile-app business outline. Any notes you see in here are written for me, so don't be offended. I'm brutally honest with myself;)_
+_Originally, I created this repo for keeping track of all the mobile dev resources I use/found. Like a gremlin, it grew into it's own little monster. Now it's more of a personal mobile-app business playbook._
 
 </div>
 
@@ -82,7 +82,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's game on
 
 - **SWAT**
 
-> **_NOTE TO SELF:_**
+> **_:bangbang: NOTE TO SELF :bangbang:_**
 >
 > _if I'm in this for the long haul, I have to be the most objective person in the process_
 >
@@ -125,7 +125,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 - [Lean Canvas]()
 
-**TECHNICAL REQUIREMENT**
+**TECHNICAL REQUIREMENTS**
 
 - [12-Factor App](https://12factor.net/)
 - Architecture Diagrams: [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc), [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/)
@@ -141,14 +141,12 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 - [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [Trello](https://trello.com/)
 
-**USER EXPERIENCE**
-
-**USER INTERFACE**
+**UI / UX DESIGN**
 
 - Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
 - iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
-> **_NOTE TO SELF:_**
+> **_:bangbang: NOTE TO SELF :bangbang:_**
 >
 > - micro-slow, macro-fast
 > - when it comes to learning, times practiced trumps time spent. **_it's all about the reps!_**
@@ -226,7 +224,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
-> **_NOTE TO SELF:_**
+> **_:bangbang: NOTE TO SELF :bangbang:_**
 >
 > - value your time. smart people to ask for help.
 > - ready to rage? do **_anything_** else. ( to calm you down )
