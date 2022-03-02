@@ -14,7 +14,7 @@
 
 <div align='center'>
 
-_Originally, I created this repo for keeping track of all the mobile dev resources I use/found. Like a gremlin, it grew into it's own little monster. Now it's more of a personal mobile-app business playbook._
+_Originally, I created this repo for keeping track of all the mobile dev resources I use / find. Like a gremlin, it grew into it's own little monster. Now it's more of a personal mobile-app business playbook._
 
 </div>
 
