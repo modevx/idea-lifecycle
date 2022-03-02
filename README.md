@@ -18,13 +18,21 @@ _Originally, I created this repo for keeping track of all the mobile dev resourc
 
 </div>
 
-1. [`App Ideas`](#discover) &nbsp;&nbsp;|&nbsp;&nbsp; no guessing - systematic approach to identifying & validating market opportunities
-2. [`Visualize`](#visualize) &nbsp;&nbsp;|&nbsp;&nbsp; visualize the solution. visualize the finishline.
-3. [`Build`](#build) &nbsp;&nbsp;|&nbsp;&nbsp; get feedback from users ASAFP.
-4. [`Evaluate`](#evaluate) &nbsp;&nbsp;|&nbsp;&nbsp; user feedback, product market fit, processes, personal performance (habits)
-5. [`Market & Sell`](#market) &nbsp;&nbsp;|&nbsp;&nbsp; clearly & quickly communicate how your app satifies their need.
-6. [`Community`](#community) &nbsp;&nbsp;|&nbsp;&nbsp; every ultra-successful person in the world needs a team & mentor(s). you're not special.
-7. [`Connect`](#connect)&nbsp;&nbsp;|&nbsp;&nbsp; build the team.
+Phase #1: [`Discover`](#discover)
+
+Phase #2: [`Visualize`](#visualize)
+
+Phase #3: [`Build`](#build)
+
+Phase #4: [`Promote`](#promote)
+
+Phase #5: [`Distribute`](#distribute)
+
+Phase #6: [`Evaluate`](#evaluate)
+
+[`Community`](#community)
+
+[`Connect`](#connect)
 
 <!-- #endregion /INDEX -->
 
@@ -229,7 +237,7 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 <!-- #region PROMOTE -->
 
-<h3 id='market'>
+<h3 id='promote'>
 
 ![readme section graphic](./assets/promote.png)
 
@@ -297,9 +305,7 @@ _"I **NEED** that!" vs. "What does it do, again?"_
 
 <div align='center'>
 
-_You're not building a mobile app. You're building a solution to someone's need, want, or desire. Be obnoxiously clear about the problem that the app solves. Feature. Advantage. Benefit._
-
-_"I **NEED** that!" vs. "What does it do, again?"_
+_Consistent. Fast. Efficient._
 
 </div>
 
