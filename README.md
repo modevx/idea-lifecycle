@@ -14,8 +14,6 @@
 
 <div align='center'>
 
-_Originally, I created this repo for keeping track of all the mobile dev resources I use / find. Like a gremlin, it grew into it's own little monster. Now it's more of a personal mobile-app business playbook._
-
 </div>
 
 [`Getting Started`](#start)
@@ -54,7 +52,7 @@ Phase #6: [`Evaluate`](#evaluate)
 
 <div align='center'>
 
-_Getting started is the hardest part. No excuses._
+_Getting started is the hardest part. Stop making excuses._
 
 </div>
 
@@ -98,7 +96,7 @@ _Getting started is the hardest part. No excuses._
 
 <div align='center'>
 
-_Create a system to identify & validate ( invalidate ) app ideas. **FAST**._
+_Create a system to brainstorm & (in)validate app ideas **FAST**._
 
 </div>
 
@@ -215,7 +213,9 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <div align='center'>
 
-_Establish a build process that focuses on progress & leaves no time for perfection. "Perfect" is the enemy of "done"._
+_Establish a build process that focuses on progress & leaves no time for perfection._
+
+_"Perfect" is the enemy of "done"._
 
 </div>
 
@@ -295,9 +295,11 @@ _Establish a build process that focuses on progress & leaves no time for perfect
 
 <div align='center'>
 
-_You're not building a mobile app. You're building a solution to someone's need, want, or desire. Be obnoxiously clear about the problem that the app solves. Feature. Advantage. Benefit._
+_You're not building a mobile app. You're building a solution to a human's ( percieved ) problem._
 
-_"I **NEED** that!" vs. "What does it do, again?"_
+_If you don't promote your mobile solution, you're building a hobby project, not a business._
+
+_Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?"_
 
 </div>
 
@@ -351,6 +353,8 @@ _"I **NEED** that!" vs. "What does it do, again?"_
 
 _Consistent. Fast. Efficient._
 
+_Target your target audience._
+
 </div>
 
 <!-- #endregion /DISTRIBUTE -->
@@ -371,7 +375,7 @@ _Consistent. Fast. Efficient._
 
 <div align='center'>
 
-**_Awareness_** is the differentiator. Reflect on & critique **_every_** step of every process. wash. rinse. repeat.
+_\*\*\_Awareness_** is the differentiator. Be highly critical about **_EVERY_\*\* step of the process. wash. rinse. repeat.
 
 </div>
 
@@ -446,7 +450,7 @@ _To build anything of significance, you need to connect with the users & people 
 
 <div align='center'>
 
-_Build the network. Succeed together._
+_Build the network. Share your tools and resources. Win together._
 
 </div>
 
