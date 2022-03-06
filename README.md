@@ -108,6 +108,8 @@ _Getting started is the hardest part. Stop making excuses._
 
 _Create a system to brainstorm & (in)validate app ideas **FAST**._
 
+_Don't write 1 line of code until you **KNOW** people want it._
+
 </div>
 
 ## **MOBILE INDUSTRY STATS**
