@@ -60,9 +60,19 @@ _Getting started is the hardest part. Stop making excuses._
 
 - _setting up an LLC / corp._
 
-## **MENTAL APPROACH**
+## **MINDSET**
 
-- _First few ( and then some ) ideas, apps, processes will be garbage. Just get the reps in ASAFP!_
+- _First few ( and then some ) ideas, apps, processes will be garbage. Just get your reps in ASAFP!_
+
+- Starting A Business
+  - LeanStack [bootstrap](https://leanstack.com/manifesto/bootstart)
+- Process
+  - LeanStack [continuous innovation](https://leanstack.com/manifesto/continuous-innovation)
+- ["Atomic" Habits](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesclear-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=abf7be794d09b977a31cce5f2315697f) | creating your process
+  - make it **_OBVIOUS_**
+  - make it **_ATTRACTIVE_**
+  - make it **_EASY_**
+  - make it **_SATISFYING_**
 
 ## **HAVE A SYSTEM** ( for _EVERYTHING_ )
 
