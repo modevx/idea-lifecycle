@@ -8,7 +8,7 @@
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -26,7 +26,7 @@ Phase #3: [`Build`](#build)
 
 Phase #4: [`Promote`](#promote)
 
-Phase #5: [`Distribute`](#distribute)
+Phase #5: [`Deploy`](#deploy)
 
 Phase #6: [`Evaluate`](#evaluate)
 
@@ -46,7 +46,7 @@ Phase #6: [`Evaluate`](#evaluate)
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -100,7 +100,7 @@ _Getting started is the hardest part. Stop making excuses._
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -157,7 +157,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's game on
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -219,7 +219,7 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -231,39 +231,67 @@ _"Perfect" is the enemy of "done"._
 
 </div>
 
-## **DEVELOPER ACCOUNTS**
+## **PLATFORMS**
 
-- **iOS**
+- [Android](https://developer.android.com/reference)
+  - [Android Studio](https://developer.android.com/docs)
+  - [Kotlin](https://developer.android.com/kotlin)
+- [Expo](https://docs.expo.io/)
+- [iOS: Swift](https://developer.apple.com/documentation/swift)
+  - [release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
+- [React](https://reactjs.org/docs)
+  - [repo](https://github.com/facebook/react)
+- [React Native](http://reactnative.dev/docs/getting-started)
+  - [repo](https://github.com/facebook/react-native/)
+  - [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
+  - [community repo](https://github.com/react-native-community)
+  - [community releases repo](https://github.com/react-native-community/releases)
+  - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
+    - [icon directory](https://oblador.github.io/react-native-vector-icons/)
 
-  - [Apple Developer Program](https://developer.apple.com/)
-    - enrollment [requirements](https://developer.apple.com/programs/enroll/)
-    - Apple [Agreements & Guidelines](https://developer.apple.com/support/terms/#apple-developer-agreement)
-  - App Store [Small Business Program](https://developer.apple.com/app-store/small-business-program/)
-  - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
+## **USER INTERFACE**
 
-- **ANDROID**
+- [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
+
+## **DEBUGGING**
+
+- [Flipper](https://fbflipper.com/)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
+
+## **TESTING**
+
+- [Jest](https://jestjs.io/)
+  - [React Native + Jest](https://jestjs.io/docs/tutorial-react-native)
+- [React testing docs](https://reactjs.org/docs/testing.html)
+  - [recipes for common patterns](https://reactjs.org/docs/testing-recipes.html)
+  - [environments](https://reactjs.org/docs/testing-environments.html)
+  - [`jest-react`](https://github.com/facebook/react/tree/main/packages/jest-react)
+- [React Native testing docs](https://reactnative.dev/docs/testing-overview)
+
+  - [structure](https://reactnative.dev/docs/testing-overview#structuring-tests),
+    [unit](https://reactnative.dev/docs/testing-overview#unit-tests),
+    [integration](https://reactnative.dev/docs/testing-overview#integration-tests),
+    [components](https://reactnative.dev/docs/testing-overview#component-tests),
+    [end-to-end](https://reactnative.dev/docs/testing-overview#end-to-end-tests)
+
+- [React Query docs](https://react-query.tanstack.com/guides/testing)
+
+## **WORKFLOW**
+
+- [TypeScript](https://www.typescriptlang.org/)
+  - [TypeScript + React Native](https://reactnative.dev/docs/typescript)
+  - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
+  - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
+  - []()
 
 ## **DEV ENVIRONMENTS**
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
-- [Flipper](https://fbflipper.com/)
-- [Reactotron](https://github.com/infinitered/reactotron)
 - [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [XCode](https://developer.apple.com/documentation/xcode/)
-
-## **READ THE F\*CK!NG MANUAL**
-
-- Android: [Android Studio](https://developer.android.com/docs), [API reference](https://developer.android.com/reference), [Kotlin](https://developer.android.com/kotlin)
-- Expo: [docs](https://docs.expo.io/)
-- iOS: [Swift docs](https://developer.apple.com/documentation/swift), [release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
-- React: [docs](https://reactjs.org/docs), [repo](https://github.com/facebook/react)
-- React Native: [docs](http://reactnative.dev/docs/getting-started), [repo](https://github.com/facebook/react-native/), [community repo](https://github.com/react-native-community), [community releases](https://github.com/react-native-community/releases)
-  - repo | [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
-  - repo | [`react-native-vector-icons`](https://github.com/oblador/react-native-vector-icons)
-  - repo | [`Icon` component](https://github.com/oblador/react-native-vector-icons#icon-component)
-    - searchable [icon directory](https://oblador.github.io/react-native-vector-icons/)
 
 ## **SUBJECT MATTER EXPERTS**
 
@@ -274,11 +302,13 @@ _"Perfect" is the enemy of "done"._
 - REACT
   - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
 
-## **STREAMLINE**
+## **REACT NATIVE BOILERPLATES**
 
-- Project Boilerplates: [Ignite](https://github.com/infinitered/ignite), [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template), [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript)
+- [`ignite`](https://github.com/infinitered/ignite)
+- [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
+- [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
 
-## **TOOLS**
+## **MISC. TOOLS**
 
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
@@ -301,7 +331,7 @@ _"Perfect" is the enemy of "done"._
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -347,7 +377,7 @@ _Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?
 
 <!-- #endregion /PROMOTE -->
 
-<!-- #region DISTRIBUTE -->
+<!-- #region DEPLOY -->
 
 <h3 id='distribute'>
 
@@ -357,7 +387,7 @@ _Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -369,7 +399,19 @@ _Target your target audience._
 
 </div>
 
-<!-- #endregion /DISTRIBUTE -->
+## **DEVELOPER ACCOUNTS**
+
+- **iOS**
+
+  - [Apple Developer Program](https://developer.apple.com/)
+    - enrollment [requirements](https://developer.apple.com/programs/enroll/)
+    - Apple [Agreements & Guidelines](https://developer.apple.com/support/terms/#apple-developer-agreement)
+  - App Store [Small Business Program](https://developer.apple.com/app-store/small-business-program/)
+  - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
+
+- **ANDROID**
+
+<!-- #endregion /DEPLOY -->
 
 <!-- #region EVALUATE -->
 
@@ -381,7 +423,7 @@ _Target your target audience._
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -413,7 +455,7 @@ _\*\*\_Awareness_** is the differentiator. Be highly critical about **_EVERY_\*\
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
@@ -456,7 +498,7 @@ _To build anything of significance, you need to connect with the users & people 
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Distribute](#distribute) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
 
 </div>
 
