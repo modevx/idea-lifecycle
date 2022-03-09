@@ -249,9 +249,16 @@ _"Perfect" is the enemy of "done"._
   - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
     - [icon directory](https://oblador.github.io/react-native-vector-icons/)
 
-## **USER INTERFACE**
+## **UI / STYLING**
 
 - [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
+- "[5 Ways To Improve React Native Styling Workflow](https://reactnavigation.org/docs/testing)" | Shopify
+  1. design system: spacing, color, typography
+  2. theme object
+  3. provide theme using React.Context
+  4. break system into components with props that only accept theme values
+  5. use responsive styles (aka. breakpoints)
+  6. enforce with TypeScript
 
 ## **DEBUGGING**
 
