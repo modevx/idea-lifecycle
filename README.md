@@ -261,21 +261,26 @@ _"Perfect" is the enemy of "done"._
 
 ## **TESTING**
 
+- [Detox](https://github.com/wix/detox/) | mobile app end-to-end testing
 - [Jest](https://jestjs.io/)
-  - [React Native + Jest](https://jestjs.io/docs/tutorial-react-native)
+  - [configure](https://jestjs.io/docs/configuration)
+  - [React Native + Jest](https://jestjs.io/docs/tutorial-react-native), [Expo + Jest](https://docs.expo.dev/guides/testing-with-jest/)
+  - [async testing](https://jestjs.io/docs/tutorial-async)
+- [`nock`](https://www.npmjs.com/package/nock) | "HTTP server mocking and expectations library for Node.js"
 - [React testing docs](https://reactjs.org/docs/testing.html)
-  - [recipes for common patterns](https://reactjs.org/docs/testing-recipes.html)
-  - [environments](https://reactjs.org/docs/testing-environments.html)
-  - [`jest-react`](https://github.com/facebook/react/tree/main/packages/jest-react)
+  - [recipes for common patterns](https://reactjs.org/docs/testing-recipes.html),
+    [environments](https://reactjs.org/docs/testing-environments.html),
+    [`jest-react`](https://github.com/facebook/react/tree/main/packages/jest-react)
 - [React Native testing docs](https://reactnative.dev/docs/testing-overview)
-
-  - [structure](https://reactnative.dev/docs/testing-overview#structuring-tests),
+  - [structure](https://reactnative.dev/docs/testing-overview#structuring-tests)
     [unit](https://reactnative.dev/docs/testing-overview#unit-tests),
     [integration](https://reactnative.dev/docs/testing-overview#integration-tests),
     [components](https://reactnative.dev/docs/testing-overview#component-tests),
     [end-to-end](https://reactnative.dev/docs/testing-overview#end-to-end-tests)
-
+- [`react-native-testing-library` docs](https://callstack.github.io/react-native-testing-library/)
+  - [`react-native-testing-library` repo](https://callstack.github.io/react-native-testing-library/)
 - [React Query docs](https://react-query.tanstack.com/guides/testing)
+  - "[Testing React Query](https://tkdodo.eu/blog/testing-react-query)"
 
 ## **WORKFLOW**
 
