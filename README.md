@@ -2,13 +2,7 @@
 
 <div id='top'>
 
-![readme section graphic](./assets/md_title.png)
-
-</div>
-
-<div align='center' style='font-size: 12px;'>
-
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+![readme section graphic](./assets/readme.png)
 
 </div>
 
@@ -16,79 +10,15 @@
 
 </div>
 
-[`Getting Started`](#start)
-
-Phase #1: [`Discover`](#discover)
-
-Phase #2: [`Visualize`](#visualize)
-
-Phase #3: [`Build`](#build)
-
-Phase #4: [`Promote`](#promote)
-
-Phase #5: [`Deploy`](#deploy)
-
-Phase #6: [`Evaluate`](#evaluate)
-
-[`Community`](#community)
-
-[`Connect`](#connect)
+1. [`Discover`](#discover)
+2. [`Visualize`](#visualize)
+3. [`Build`](#build)
+4. [`Market`](#market)
+5. [`Deploy`](#deploy)
+6. [`Evaluate`](#evaluate)
+   [`Connect`](#connect)
 
 <!-- #endregion /INDEX -->
-
-<!-- #region GETTING STARTED -->
-
-<h3 id='start'>
-
-![readme section graphic](./assets/start.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-_Getting started is the hardest part. Stop making excuses._
-
-</div>
-
-## **PROTECT YOUR ASS(ETS)**
-
-- _setting up an LLC / corp._
-
-## **MINDSET**
-
-- _First few ( and then some ) ideas, apps, processes will be garbage. Just get your reps in ASAFP!_
-
-- Starting A Business
-  - LeanStack [bootstrap](https://leanstack.com/manifesto/bootstart)
-- Process
-  - LeanStack [continuous innovation](https://leanstack.com/manifesto/continuous-innovation)
-- ["Atomic" Habits](https://www.amazon.com/gp/product/0735211299/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=jamesclear-20&creative=9325&linkCode=as2&creativeASIN=0735211299&linkId=abf7be794d09b977a31cce5f2315697f) | creating your process
-  - make it **_OBVIOUS_**
-  - make it **_ATTRACTIVE_**
-  - make it **_EASY_**
-  - make it **_SATISFYING_**
-
-## **HAVE A SYSTEM** ( for _EVERYTHING_ )
-
-- _finding ideas_
-- _visualizing the finishline ( EVERY TIME )_
-- _building fast to start the feedback loop ASAP_
-- _promote ( aka: communicate value )_
-- _get your SOLUTION in the hands of users FAST_
-- _maintain awareness of what's working & what's not_
-
-## **APP STORE ACCOUNTS**
-
-- _Apple App Store_
-- _Google Play Store_
-
-<!-- #endregion /GETTING STARTED -->
 
 <!-- #region DISCOVER -->
 
@@ -100,43 +30,66 @@ _Getting started is the hardest part. Stop making excuses._
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
 <div align='center'>
 
-_Create a system to brainstorm & (in)validate app ideas **FAST**._
-
-_Don't write 1 line of code until you **KNOW** people want it._
-
 </div>
 
-## **MOBILE INDUSTRY STATS**
-
-constant awareness of where consumers spend their money
+<details>
+<summary>Finding Ideas ( ie. problems to solve )</summary>
 
 - [data.ai](https://www.data.ai/en/apps/ios/top/store-rank/feed/free/united-states/overall/ios-phone/) -- free analytics availabe w/out having to signup
-
-## **EXISTING APPS**
-
-what do people like / dislike about existing solutions
-
 - [Google Play Store](https://play.google.com/store/apps/top) appreviews
 - [Apple Store]() app reviews
   - [theappstore.org](https://theappstore.org/) - requires turning off ad-blockers
   - [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - endpoint for searching
   - [find.io](https://fnd.io/#/us/charts/iphone/top-grossing/all) - lets you search the iOS app charts without having to open iTunes on your device
 
-## **VALIDATE THE IDEA**
+</details>
 
-objectively attempt to INVALIDATE your idea - if you can't, it's game on
+<details>
+<summary>Invalidate The Idea</summary>
 
-- **LEAN CANVAS**
+**Know** people want it before writing any code.
+
+objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 - **COMPETITIVE MARKET ANALYSIS**
 
 - **SWAT**
+
+- **LEAN CANVAS**
+
+</details>
+
+<details>
+<summary>Stay Current On Apps, Tech, & Industry News</summary>
+
+**INFORMATION / NEWS**
+
+- [Awesome React Weekly](https://react.libhunt.com/newsletter/archive)
+- [React Podcast](https://reactpodcast.simplecast.com/)
+- [React Round Up](https://devchat.tv/podcasts/react-round-up/)
+- [React Wednesdays](https://www.telerik.com/react-wednesdays)
+- [React Native blog](https://reactnative.dev/blog)
+- [React Native Now](https://reactnativenow.com/issues)
+- [React Native Radio](https://reactnativeradio.com/)
+- [The React Native Show](https://callstack.com/podcast-react-native-show)
+
+**MOBILE DEV COMPANIES**
+
+- [Callstack.io](https://www.callstack.com/)
+- [Infinite Red](https://infinite.red/)
+
+**OPEN-SOURCE**
+
+- [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
+- [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
+
+</details>
 
 > **_:bangbang: NOTE TO SELF :bangbang:_**
 >
@@ -151,35 +104,46 @@ objectively attempt to INVALIDATE your idea - if you can't, it's game on
 
 <h3 id='visualize'>
 
-![readme section graphic](./assets/md_visualize.png)
+![readme section graphic](./assets/visualize.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
-<div align='center'>
+<details>
+<summary>UI / UX</summary>
 
-_Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating a system that keeps you focused on the current step's primary objective._
+- Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
+- iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 
-</div>
+**GRAPHIC ASSETS**
+
+- [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
+
+</details>
+
+<details>
+<summary>Initial Features & Requirements</summary>
+
+</details>
+
+<details>
+<summary>Project Schedule</summary>
 
 - benchmark dates
-- Lean Canvas business plan (**_every_** app is a business)
-- **_bare minimum_** v1 requirements (features & functionality)
-- required tech resources & architecture
-- UI wireframes
-- development & testing
-- user-testing
-- evaluate user-testing feedback
-- decide to iterate or start next idea
+  **PROJECT LIFECYCLE**
 
-**BIG PICTURE**
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+- [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+- [Trello](https://trello.com/)
+</details>
 
-- [Lean Canvas]()
+<details>
+<summary>Architecture</summary>
 
 **TECHNICAL REQUIREMENTS**
 
@@ -187,25 +151,14 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 - Architecture Diagrams: [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc), [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 - _(add user testing & feedback)_
 
-**GRAPHIC ASSETS**
+</details>
 
-- [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
+<details>
+<summary>Marketing & Promotional Assets</summary>
 
-**PROJECT LIFECYCLE**
-
-- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
-- [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
-- [Trello](https://trello.com/)
+</details>
 
 **UI / UX DESIGN**
-
-- Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
-- iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-
-> **_:bangbang: NOTE TO SELF :bangbang:_**
->
-> - micro-slow, macro-fast
-> - when it comes to learning, times practiced trumps time spent. **_it's all about the reps!_**
 
 <!-- #endregion /VISUALIZE -->
 
@@ -213,13 +166,13 @@ _Minimize unecessary decision-making, time-sucks, and low-ROI tasks by creating 
 
 <h3 id='build'>
 
-![readme section graphic](./assets/md_build.png)
+![readme section graphic](./assets/build.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
@@ -339,13 +292,13 @@ _"Perfect" is the enemy of "done"._
 
 <h3 id='promote'>
 
-![readme section graphic](./assets/promote.png)
+![readme section graphic](./assets/market.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
@@ -401,7 +354,7 @@ _Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
@@ -425,19 +378,24 @@ _Target your target audience._
 
 - **ANDROID**
 
+## **APP STORE ACCOUNTS**
+
+- _Apple App Store_
+- _Google Play Store_
+
 <!-- #endregion /DEPLOY -->
 
 <!-- #region EVALUATE -->
 
 <h3 id='evaluate'>
 
-![readme section graphic](./assets/md_evaluate.png)
+![readme section graphic](./assets/evaluate.png)
 
 </h3>
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
@@ -469,7 +427,7 @@ _\*\*\_Awareness_** is the differentiator. Be highly critical about **_EVERY_\*\
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
@@ -479,32 +437,11 @@ _To build anything of significance, you need to connect with the users & people 
 
 </div>
 
-**INFORMATION / NEWS**
-
-- [Awesome React Weekly](https://react.libhunt.com/newsletter/archive)
-- [React Podcast](https://reactpodcast.simplecast.com/)
-- [React Round Up](https://devchat.tv/podcasts/react-round-up/)
-- [React Wednesdays](https://www.telerik.com/react-wednesdays)
-- [React Native blog](https://reactnative.dev/blog)
-- [React Native Now](https://reactnativenow.com/issues)
-- [React Native Radio](https://reactnativeradio.com/)
-- [The React Native Show](https://callstack.com/podcast-react-native-show)
-
-**MOBILE DEV COMPANIES**
-
-- [Callstack.io](https://www.callstack.com/)
-- [Infinite Red](https://infinite.red/)
-
-**OPEN-SOURCE**
-
-- [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
-- [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
-
 <!-- #endregion /COMMUNITY -->
 
 <!-- #region CONNECT -->
 
-<h3 id='connect'>
+<h3 id='connect' align='center'>
 
 ![readme section graphic](./assets/connect.png)
 
@@ -512,7 +449,7 @@ _To build anything of significance, you need to connect with the users & people 
 
 <div align='center' style='font-size: 12px;'>
 
-[Getting Started](#start) | [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Promote](#promote) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Community](#community) | [Connect](#connect)
+[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
