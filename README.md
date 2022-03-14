@@ -53,7 +53,7 @@
 
 </div>
 
-\*\* _**Sort Order:** process_
+( _**Sort Order:** process_ )
 
 <details>
 <summary>Find Problems (ie. app ideas)</summary>
@@ -140,7 +140,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-\*\* _**Sort Order:** process_
+( _**Sort Order:** process_ )
 
 <details>
 <summary>Features & Requirements</summary>
@@ -233,7 +233,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-\*\* _**Sort Order:** alphabetical_
+( _**Sort Order:** alphabetical_ )
 
 <details>
 <summary>App Boilerplates</summary>
@@ -387,7 +387,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-## _**Sort Order**: alphabetical_
+( _**Sort Order:** alphabetical_ )
 
 <details>
 <summary>App Stores</summary>
@@ -468,7 +468,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-## _**Sort Order**: process_
+( _**Sort Order:**: process_ )
 
 <details>
 <summary>Developer Accounts</summary>
@@ -519,7 +519,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-## _**Sort Order**: alphabetical_
+( _**Sort Order:** alphabetical_ )
 
 <details>
 <summary>App Store Sales</summary>
