@@ -37,6 +37,8 @@
 
 <div align='center'>
 
+:bangbang: _love the **problem**. not the **app**_ :bangbang:
+
 </div>
 
 <details>
@@ -91,13 +93,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
 
 </details>
-
-> **_:bangbang: NOTE TO SELF :bangbang:_**
->
-> _if I'm in this for the long haul, I have to be the most objective person in the process_
->
-> - build interest/user base **_then_** worry about monetizing
-> - love the problem, not the idea
 
 <!-- #endregion /DISCOVER -->
 
