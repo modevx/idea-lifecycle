@@ -8,6 +8,8 @@
 
 <div align='center'>
 
+:bangbang: _I struggle to stay focused for long periods of time. originally created this repo as a tool to "short circuit" my brain when I get distracted. notes are written as advice to my younger self. ( you've been warned ;) [hit me up](mailto:feedback@modevx.com) if you find this useful, have feedback, or advice._ :bangbang:
+
 </div>
 
 1. [`Discover`](#discover)
@@ -37,7 +39,7 @@
 
 <div align='center'>
 
-:bangbang: _love the **problem**. not the **app**_ :bangbang:
+:bangbang: _you're **NOT** building a **MOBILE APP**. you're building a **SOLUTION**. love the **PROBLEM**. not your **APP**._ :bangbang:
 
 </div>
 
@@ -53,6 +55,10 @@
 
 </details>
 
+<br/>
+
+<br/>
+
 <details>
 <summary>Invalidate The Idea</summary>
 
@@ -67,6 +73,10 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - **LEAN CANVAS**
 
 </details>
+
+<br/>
+
+<br/>
 
 <details>
 <summary>Stay Current On Apps, Tech, & Industry News</summary>
@@ -94,6 +104,8 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
+<br/>
+
 <!-- #endregion /DISCOVER -->
 
 <!-- #region VISUALIZE -->
@@ -110,8 +122,10 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
+:bangbang: _consistent, successful execution requires **DEFINING THE TARGET** at **EVERY** lifecycle phase_ :bangbang:
+
 <details>
-<summary>UI / UX</summary>
+<summary>User Interface & Experience</summary>
 
 ## **ANDROID**
 
@@ -127,15 +141,25 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 - [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
+## **DESIGN**
+
+- [Bootswatch](https://bootswatch.com/) | free Bootstrap themese
+  - _awesome reference if building your own ui kit / component library_
+- [Figma community](https://www.figma.com/community) | insperation goldmine design systems, wireframes, mobile design, web, ui kits
+
 </details>
 
+<br/>
+
 <details>
-<summary>Initial Features & Requirements</summary>
+<summary>Features & Requirements</summary>
 
 </details>
 
+<br/>
+
 <details>
-<summary>Project Schedule</summary>
+<summary>Project Management</summary>
 
 - benchmark dates
   **PROJECT LIFECYCLE**
@@ -145,8 +169,10 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [Trello](https://trello.com/)
 </details>
 
+<br/>
+
 <details>
-<summary>Architecture</summary>
+<summary>App Architecture</summary>
 
 **TECHNICAL REQUIREMENTS**
 
@@ -156,10 +182,16 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
+<br/>
+
 <details>
 <summary>Marketing & Promotional Assets</summary>
 
+- [Canva](canva.com)
+
 </details>
+
+<br/>
 
 <!-- #endregion /VISUALIZE -->
 
@@ -179,13 +211,75 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 <div align='center'>
 
-_"**PERFECT** is the enemy of **DONE**"._
-
-_Establish a build process that focuses on **PROGRESS**._
+:bangbang: _focus on **OUTPUT.** not **INPUT.**_ :bangbang:
 
 </div>
 
-## **PLATFORMS**
+<details>
+<summary>Debugging</summary>
+
+- [Flipper](https://fbflipper.com/)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
+
+</details>
+
+<br/>
+
+<details>
+<summary>Development Environments</summary>
+
+- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
+- [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
+- [Postman](https://learning.postman.com/docs/getting-started/introduction/)
+- [Visual Studio Code](https://code.visualstudio.com/docs)
+- [XCode](https://developer.apple.com/documentation/xcode/)
+
+</details>
+
+<br/>
+
+<details>
+<summary>Misc. Tools</summary>
+
+- [url encoding](https://ascii.cl/url-encoding.htm)
+
+</details>
+
+<br/>
+
+<details>
+<summary>Mobile App Boilerplates</summary>
+
+- [`ignite`](https://github.com/infinitered/ignite)
+- [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
+- [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
+
+</details>
+
+<br/>
+
+<details>
+<summary>Subject Matter Experts</summary>
+
+## **HTML / CSS**
+
+- [Kevin Powel](https://www.youtube.com/kepowob)
+
+## **JavaScript**
+
+- [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
+
+## **React**
+
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington)
+
+</details>
+
+<br/>
+
+<details>
+<summary>Tech Stack Docs</summary>
 
 - [Android](https://developer.android.com/reference)
   - [Android Studio](https://developer.android.com/docs)
@@ -202,25 +296,17 @@ _Establish a build process that focuses on **PROGRESS**._
   - [community releases repo](https://github.com/react-native-community/releases)
   - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
     - [icon directory](https://oblador.github.io/react-native-vector-icons/)
+- [TypeScript](https://www.typescriptlang.org/)
+  - [TypeScript + React Native](https://reactnative.dev/docs/typescript)
+  - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
+  - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
 
-## **UI / STYLING**
+</details>
 
-- [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
-- "[5 Ways To Improve React Native Styling Workflow](https://reactnavigation.org/docs/testing)" | Shopify
-  1. design system: spacing, color, typography
-  2. theme object
-  3. provide theme using React.Context
-  4. break system into components with props that only accept theme values
-  5. use responsive styles (aka. breakpoints)
-  6. enforce with TypeScript
+<br/>
 
-## **DEBUGGING**
-
-- [Flipper](https://fbflipper.com/)
-- [Reactotron](https://github.com/infinitered/reactotron)
-- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
-
-## **TESTING**
+<details>
+<summary>Testing</summary>
 
 - [Detox](https://github.com/wix/detox/) | mobile app end-to-end testing
 - [Jest](https://jestjs.io/)
@@ -245,47 +331,25 @@ _Establish a build process that focuses on **PROGRESS**._
 - [React Query docs](https://react-query.tanstack.com/guides/testing)
   - "[Testing React Query](https://tkdodo.eu/blog/testing-react-query)"
 
-## **WORKFLOW**
+</details>
 
-- [TypeScript](https://www.typescriptlang.org/)
-  - [TypeScript + React Native](https://reactnative.dev/docs/typescript)
-  - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
-  - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
-  - []()
+<br/>
 
-## **DEV ENVIRONMENTS**
+<details>
+<summary>User Interface / Styling</summary>
 
-- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
-- [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
-- [Postman](https://learning.postman.com/docs/getting-started/introduction/)
-- [Visual Studio Code](https://code.visualstudio.com/docs)
-- [XCode](https://developer.apple.com/documentation/xcode/)
+- [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
+- "[5 Ways To Improve React Native Styling Workflow](https://reactnavigation.org/docs/testing)" | Shopify
+  1. design system: spacing, color, typography
+  2. theme object
+  3. provide theme using React.Context
+  4. break system into components with props that only accept theme values
+  5. use responsive styles (aka. breakpoints)
+  6. enforce with TypeScript
 
-## **SUBJECT MATTER EXPERTS**
+</details>
 
-- HTML / CSS
-  - [Kevin Powel](https://www.youtube.com/kepowob)
-- JAVASCRIPT
-  - [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
-- REACT
-  - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
-
-## **REACT NATIVE BOILERPLATES**
-
-- [`ignite`](https://github.com/infinitered/ignite)
-- [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
-- [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
-
-## **MISC. TOOLS**
-
-- [url encoding](https://ascii.cl/url-encoding.htm)
-
-> **_:bangbang: NOTE TO SELF :bangbang:_**
->
-> - value your time. smart people to ask for help.
-> - ready to rage? do **_anything_** else. ( to calm you down )
-> - slow is smooth. smooth is fast. ( "micro slow - macro fast" )
-> - [ work on your EQ, Smith ]
+<br/>
 
 <!-- #endregion /BUILD -->
 
@@ -305,29 +369,47 @@ _Establish a build process that focuses on **PROGRESS**._
 
 <div align='center'>
 
-_You're not building a mobile app. You're building a solution to a human's ( perceived ) problem._
-
-_If you don't promote your mobile solution, you're building a hobby project, not a business._
-
-_Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?"_
+:bangbang: _an un-marketed mobile app is a hobby project, not a business. "I **NEED** that!" vs. "What does it do, again?"_ :bangbang:
 
 </div>
 
-**MARKETING**
+<details>
+<summary>Product Landing Page</summary>
 
-- Personal Channels
+- [Start Bootstrap](https://startbootstrap.com/) | free Bootstrap site templates & themes
 
-- Public Channels
+</details>
 
-- User Personas / Human Universals
+<br/>
 
-- Web Presence
+<details>
+<summary>Social Channels</summary>
 
-**DISTRIBUTION**
+</details>
+
+<br/>
+
+<details>
+<summary>Target Users</summary>
+
+- Personas
+
+- Human Universals
+
+</details>
+
+<br/>
+
+<details>
+<summary>App Stores</summary>
 
 - Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
 
 - Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
+
+</details>
+
+<br/>
 
 **SALES**
 
