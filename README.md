@@ -418,6 +418,8 @@ _fast. efficient._
 
 </div>
 
+## _**Sort Order**: process_
+
 <details>
 <summary>Developer Accounts</summary>
 
@@ -453,19 +455,31 @@ _fast. efficient._
 
 <div align='center'>
 
-_\*\*\_Awareness_** is the differentiator. Be highly critical about **_EVERY_\*\* step of the process. wash. rinse. repeat.
+_**AWARENESS** is the differentiator. be painfully objective about app performance, opportunities & your output effectiveness & efficiency at **EVERY** step in the process. wash. rinse. repeat._
 
 </div>
 
-**APP PERFORMANCE IN STORES**
+## _**Sort Order**: alphabetical_
 
-**COMMUNITY ENGAGEMENT**
+<details>
+<summary>App Sales</summary>
 
-**IN-APP USER METRICS**
+</details>
 
-**PERSONAL HABITS & PROCESSES**
+<details>
+<summary>In-App Metrics</summary>
 
-**WEB PRESENCE**
+</details>
+
+<details>
+<summary>Personal Habits</summary>
+
+</details>
+
+<details>
+<summary>User Feedback</summary>
+
+</details>
 
 <!-- #endregion /EVALUATE -->
 
