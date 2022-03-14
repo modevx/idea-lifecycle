@@ -206,6 +206,15 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 ## _**Sort Order:** alphabetical_
 
 <details>
+<summary>App Boilerplates</summary>
+
+- [`ignite`](https://github.com/infinitered/ignite)
+- [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
+- [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
+
+</details>
+
+<details>
 <summary>Debugging</summary>
 
 - [Flipper](https://fbflipper.com/)
@@ -222,22 +231,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [XCode](https://developer.apple.com/documentation/xcode/)
-
-</details>
-
-<details>
-<summary>Misc. Tools</summary>
-
-- [url encoding](https://ascii.cl/url-encoding.htm)
-
-</details>
-
-<details>
-<summary>Mobile App Boilerplates</summary>
-
-- [`ignite`](https://github.com/infinitered/ignite)
-- [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
-- [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
 
 </details>
 
@@ -325,6 +318,13 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
+<details>
+<summary>~ Misc. Tools</summary>
+
+- [url encoding](https://ascii.cl/url-encoding.htm)
+
+</details>
+
 <!-- #endregion /BUILD -->
 
 <!-- #region MARKET -->
@@ -347,10 +347,38 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
+## _**Sort Order**: alphabetical_
+
+<details>
+<summary>App Stores</summary>
+
+- Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
+
+- Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
+
+</details>
+
 <details>
 <summary>Product Landing Page</summary>
 
 - [Start Bootstrap](https://startbootstrap.com/) | free Bootstrap site templates & themes
+
+</details>
+
+<details>
+<summary>Sales</summary>
+
+- Conversion Analytics
+
+- Features, Advantages, Benefits
+
+- Genuine Value Prop
+
+- Monetization Strategy
+
+- Sales Tracking
+
+- [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
 
 </details>
 
@@ -367,29 +395,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - Human Universals
 
 </details>
-
-<details>
-<summary>App Stores</summary>
-
-- Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
-
-- Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
-
-</details>
-
-**SALES**
-
-- Conversion Analytics
-
-- Features, Advantages, Benefits
-
-- Genuine Value Prop
-
-- Monetization Strategy
-
-- Sales Tracking
-
-- [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
 
 <!-- #endregion /MARKET -->
 
@@ -409,28 +414,26 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 <div align='center'>
 
-_Consistent. Fast. Efficient._
-
-_Target your target audience._
+_fast. efficient._
 
 </div>
 
-## **DEVELOPER ACCOUNTS**
+<details>
+<summary>Developer Accounts</summary>
 
-- **iOS**
+## **iOS**
 
-  - [Apple Developer Program](https://developer.apple.com/)
-    - enrollment [requirements](https://developer.apple.com/programs/enroll/)
-    - Apple [Agreements & Guidelines](https://developer.apple.com/support/terms/#apple-developer-agreement)
-  - App Store [Small Business Program](https://developer.apple.com/app-store/small-business-program/)
-  - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
+- [Apple Developer Program](https://developer.apple.com/)
+  - enrollment [requirements](https://developer.apple.com/programs/enroll/)
+  - Apple [Agreements & Guidelines](https://developer.apple.com/support/terms/#apple-developer-agreement)
+- App Store [Small Business Program](https://developer.apple.com/app-store/small-business-program/)
+- [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
 
-- **ANDROID**
+## **ANDROID**
 
-## **APP STORE ACCOUNTS**
+- [Google Play Console](https://developer.android.com/distribute/console/)
 
-- _Apple App Store_
-- _Google Play Store_
+</details>
 
 <!-- #endregion /DEPLOY -->
 
