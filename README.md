@@ -16,7 +16,8 @@
 4. [`Market`](#market)
 5. [`Deploy`](#deploy)
 6. [`Evaluate`](#evaluate)
-   [`Connect`](#connect)
+
+- [`~ Connect ~`](#connect)
 
 <!-- #endregion /INDEX -->
 
@@ -117,10 +118,17 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 <details>
 <summary>UI / UX</summary>
 
-- Android: [App quality guidelines](https://developer.android.com/quality), [Material Design guidelines](https://material.io/design), [Material Design components](https://material.io/develop/android)
-- iOS: [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+## **ANDROID**
 
-**GRAPHIC ASSETS**
+- [App quality guidelines](https://developer.android.com/quality)
+- [Material Design guidelines](https://material.io/design)
+- [Material Design components](https://material.io/develop/android)
+
+## **iOS**
+
+- [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
+## **GRAPHIC ASSETS**
 
 - [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
@@ -158,8 +166,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-**UI / UX DESIGN**
-
 <!-- #endregion /VISUALIZE -->
 
 <!-- #region BUILD -->
@@ -178,9 +184,9 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 <div align='center'>
 
-_Establish a build process that focuses on progress & leaves no time for perfection._
+_"**PERFECT** is the enemy of **DONE**"._
 
-_"Perfect" is the enemy of "done"._
+_Establish a build process that focuses on **PROGRESS**._
 
 </div>
 
