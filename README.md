@@ -310,7 +310,7 @@ _Establish a build process that focuses on **PROGRESS**._
 
 <div align='center'>
 
-_You're not building a mobile app. You're building a solution to a human's ( percieved ) problem._
+_You're not building a mobile app. You're building a solution to a human's ( perceived ) problem._
 
 _If you don't promote your mobile solution, you're building a hobby project, not a business._
 
@@ -354,7 +354,7 @@ _Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?
 
 <h3 id='deploy'>
 
-![readme section graphic](./assets/distribute.png)
+![readme section graphic](./assets/deploy.png)
 
 </h3>
 
