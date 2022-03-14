@@ -31,11 +31,21 @@
 
 </h3>
 
-<div align='center' style='font-size: 12px;'>
+<div align='center'>
 
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
 
 <div align='center'>
 
@@ -108,11 +118,21 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </h3>
 
-<div align='center' style='font-size: 12px;'>
+<div align='center'>
 
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
 
 <div align='center'>
 
@@ -191,11 +211,21 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </h3>
 
-<div align='center' style='font-size: 12px;'>
+<div align='center'>
 
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
 
 <div align='center'>
 
@@ -335,11 +365,21 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </h3>
 
-<div align='center' style='font-size: 12px;'>
+<div align='center'>
 
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
 
 <div align='center'>
 
@@ -406,15 +446,25 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </h3>
 
-<div align='center' style='font-size: 12px;'>
+<div align='center'>
 
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
+
 <div align='center'>
 
-_fast. efficient._
+:bangbang: _fast. efficient._ :bangbang:
 
 </div>
 
@@ -447,22 +497,32 @@ _fast. efficient._
 
 </h3>
 
-<div align='center' style='font-size: 12px;'>
+<div align='center'>
 
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
 
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
+
 <div align='center'>
 
-_**AWARENESS** is the differentiator. be painfully objective about app performance, opportunities & your output effectiveness & efficiency at **EVERY** step in the process. wash. rinse. repeat._
+:bangbang: _**AWARENESS** is the differentiator. be painfully objective about app performance, opportunities & your output effectiveness & efficiency at **EVERY** step in the process. wash. rinse. repeat._ :bangbang:
 
 </div>
 
 ## _**Sort Order**: alphabetical_
 
 <details>
-<summary>App Sales</summary>
+<summary>App Store Sales</summary>
 
 </details>
 
@@ -482,35 +542,3 @@ _**AWARENESS** is the differentiator. be painfully objective about app performan
 </details>
 
 <!-- #endregion /EVALUATE -->
-
-<!-- #region CONNECT -->
-
-<h3 id='connect' align='center'>
-
-![readme section graphic](./assets/connect.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-_Build the network. Share your tools and resources. Win together._
-
-</div>
-
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="90"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="90"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="90"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="90"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="90"></a></td>
-  </tr>
-</table>
-
-<!-- #endregion /CONNECT -->
