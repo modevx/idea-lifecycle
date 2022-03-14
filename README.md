@@ -143,7 +143,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 ( _**Sort Order:** process_ )
 
 <details>
-<summary>Features & Requirements</summary>
+<summary>[ Features & Requirements ]</summary>
 
 </details>
 
@@ -166,8 +166,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 ## **DESIGN**
 
-- [Bootswatch](https://bootswatch.com/) | free Bootstrap themese
-  - _awesome reference if building your own ui kit / component library_
+- [Bootswatch](https://bootswatch.com/) | free Bootstrap themes
 - [Figma community](https://www.figma.com/community) | insperation goldmine design systems, wireframes, mobile design, web, ui kits
 
 </details>
@@ -175,11 +174,8 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 <details>
 <summary>App Architecture</summary>
 
-**TECHNICAL REQUIREMENTS**
-
 - [12-Factor App](https://12factor.net/)
 - Architecture Diagrams: [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc), [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/)
-- _(add user testing & feedback)_
 
 </details>
 
