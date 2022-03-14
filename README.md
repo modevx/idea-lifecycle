@@ -294,9 +294,9 @@ _Establish a build process that focuses on **PROGRESS**._
 
 <!-- #endregion /BUILD -->
 
-<!-- #region PROMOTE -->
+<!-- #region MARKET -->
 
-<h3 id='promote'>
+<h3 id='market'>
 
 ![readme section graphic](./assets/market.png)
 
@@ -348,11 +348,11 @@ _Feature. Advantage. Benefit. -- "I **NEED** that!" vs. "What does it do, again?
 
 - [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
 
-<!-- #endregion /PROMOTE -->
+<!-- #endregion /MARKET -->
 
 <!-- #region DEPLOY -->
 
-<h3 id='distribute'>
+<h3 id='deploy'>
 
 ![readme section graphic](./assets/distribute.png)
 
@@ -422,28 +422,6 @@ _\*\*\_Awareness_** is the differentiator. Be highly critical about **_EVERY_\*\
 **WEB PRESENCE**
 
 <!-- #endregion /EVALUATE -->
-
-<!-- #region COMMUNITY -->
-
-<h3 id='community'>
-
-![readme section graphic](./assets/community.png)
-
-</h3>
-
-<div align='center' style='font-size: 12px;'>
-
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-_To build anything of significance, you need to connect with the users & people who are smarter & more experienced than you._
-
-</div>
-
-<!-- #endregion /COMMUNITY -->
 
 <!-- #region CONNECT -->
 
