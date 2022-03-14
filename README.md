@@ -148,7 +148,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 </details>
 
 <details>
-<summary>User Interface & Experience</summary>
+<summary>UI / UX Design</summary>
 
 ## **ANDROID**
 
@@ -181,9 +181,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 <details>
 <summary>Project / Schedule Management</summary>
-
-- benchmark dates
-  **PROJECT LIFECYCLE**
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
