@@ -39,12 +39,14 @@
 
 <div align='center'>
 
-:bangbang: _you're **NOT** building a **MOBILE APP**. you're building a **SOLUTION**. love the **PROBLEM**. not your **APP**._ :bangbang:
+:bangbang: _you're **NOT** building a **MOBILE APP**. you're building a **SOLUTION**. love the **PROBLEM**. **NOT** your brain baby._ :bangbang:
 
 </div>
 
+## _**Sort Order:** process_
+
 <details>
-<summary>Finding Ideas ( ie. problems to solve )</summary>
+<summary>Find Problems (ie. app ideas)</summary>
 
 - [data.ai](https://www.data.ai/en/apps/ios/top/store-rank/feed/free/united-states/overall/ios-phone/) -- free analytics availabe w/out having to signup
 - [Google Play Store](https://play.google.com/store/apps/top) appreviews
@@ -56,7 +58,7 @@
 </details>
 
 <details>
-<summary>Invalidate The Idea</summary>
+<summary>Validate Your Solution</summary>
 
 **Know** people want it before writing any code.
 
@@ -71,7 +73,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 </details>
 
 <details>
-<summary>Stay Current On Apps, Tech, & Industry News</summary>
+<summary>Maintain Awareness</summary>
 
 **INFORMATION / NEWS**
 
@@ -98,7 +100,7 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 <!-- #endregion /DISCOVER -->
 
-<!-- #region VISUALIZE --
+<!-- #region VISUALIZE -->
 
 <h3 id='visualize'>
 
@@ -112,7 +114,18 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
+<div align='center'>
+
 :bangbang: _consistent, successful execution requires **DEFINING THE TARGET** at **EVERY** lifecycle phase_ :bangbang:
+
+</div>
+
+## _**Sort Order:** process_
+
+<details>
+<summary>Features & Requirements</summary>
+
+</details>
 
 <details>
 <summary>User Interface & Experience</summary>
@@ -139,28 +152,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
-<details>
-<summary>Features & Requirements</summary>
-
-</details>
-
-<br/>
-
-<details>
-<summary>Project Management</summary>
-
-- benchmark dates
-  **PROJECT LIFECYCLE**
-
-- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
-- [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
-- [Trello](https://trello.com/)
-</details>
-
-<br/>
-
 <details>
 <summary>App Architecture</summary>
 
@@ -172,16 +163,23 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
+<details>
+<summary>Project / Schedule Management</summary>
+
+- benchmark dates
+  **PROJECT LIFECYCLE**
+
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
+- [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
+- [Trello](https://trello.com/)
+</details>
 
 <details>
-<summary>Marketing & Promotional Assets</summary>
+<summary>Branding & Promotional Assets</summary>
 
 - [Canva](canva.com)
 
 </details>
-
-<br/>
 
 <!-- #endregion /VISUALIZE -->
 
@@ -204,6 +202,8 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 :bangbang: _focus on **OUTPUT.** not **INPUT.**_ :bangbang:
 
 </div>
+
+## _**Sort Order:** alphabetical_
 
 <details>
 <summary>Debugging</summary>
