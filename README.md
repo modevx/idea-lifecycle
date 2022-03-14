@@ -55,10 +55,6 @@
 
 </details>
 
-<br/>
-
-<br/>
-
 <details>
 <summary>Invalidate The Idea</summary>
 
@@ -73,10 +69,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - **LEAN CANVAS**
 
 </details>
-
-<br/>
-
-<br/>
 
 <details>
 <summary>Stay Current On Apps, Tech, & Industry News</summary>
@@ -104,11 +96,9 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
 <!-- #endregion /DISCOVER -->
 
-<!-- #region VISUALIZE -->
+<!-- #region VISUALIZE --
 
 <h3 id='visualize'>
 
@@ -224,8 +214,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
 <details>
 <summary>Development Environments</summary>
 
@@ -237,16 +225,12 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
 <details>
 <summary>Misc. Tools</summary>
 
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
 </details>
-
-<br/>
 
 <details>
 <summary>Mobile App Boilerplates</summary>
@@ -256,8 +240,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
 
 </details>
-
-<br/>
 
 <details>
 <summary>Subject Matter Experts</summary>
@@ -275,8 +257,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
 
 </details>
-
-<br/>
 
 <details>
 <summary>Tech Stack Docs</summary>
@@ -302,8 +282,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
   - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
 
 </details>
-
-<br/>
 
 <details>
 <summary>Testing</summary>
@@ -333,8 +311,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
 <details>
 <summary>User Interface / Styling</summary>
 
@@ -348,8 +324,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
   6. enforce with TypeScript
 
 </details>
-
-<br/>
 
 <!-- #endregion /BUILD -->
 
@@ -380,14 +354,10 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
 <details>
 <summary>Social Channels</summary>
 
 </details>
-
-<br/>
 
 <details>
 <summary>Target Users</summary>
@@ -398,8 +368,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </details>
 
-<br/>
-
 <details>
 <summary>App Stores</summary>
 
@@ -408,8 +376,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
 
 </details>
-
-<br/>
 
 **SALES**
 
