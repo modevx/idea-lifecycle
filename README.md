@@ -8,7 +8,17 @@
 
 <div align='center'>
 
-:bangbang: _I struggle to stay focused for long periods of time. originally created this repo as a tool to "short circuit" my brain when I get distracted. notes are written as advice to my younger self. ( you've been warned ;) [hit me up](mailto:feedback@modevx.com) if you find this useful, have feedback, or advice._ :bangbang:
+:bangbang: _[hit me up](mailto:feedback@modevx.com) if you find this useful or have feedback._ :bangbang:
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -18,8 +28,6 @@
 4. [`Market`](#market)
 5. [`Deploy`](#deploy)
 6. [`Evaluate`](#evaluate)
-
-- [`~ Connect ~`](#connect)
 
 <!-- #endregion /INDEX -->
 
@@ -36,16 +44,6 @@
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
-
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
 
 <div align='center'>
 
@@ -124,16 +122,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
-
 <div align='center'>
 
 :bangbang: _consistent, successful execution requires **DEFINING THE TARGET** at **EVERY** lifecycle phase_ :bangbang:
@@ -209,16 +197,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 [Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
 
 </div>
-
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
 
 <div align='center'>
 
@@ -364,16 +342,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
-
 <div align='center'>
 
 :bangbang: _an un-marketed mobile app is a hobby project, not a business. "I **NEED** that!" vs. "What does it do, again?"_ :bangbang:
@@ -445,16 +413,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
-
 <div align='center'>
 
 :bangbang: _fast. efficient._ :bangbang:
@@ -496,16 +454,6 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
-
 <div align='center'>
 
 :bangbang: _**AWARENESS** is the differentiator. be painfully objective about app performance, opportunities & your output effectiveness & efficiency at **EVERY** step in the process. wash. rinse. repeat._ :bangbang:
@@ -533,5 +481,15 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 <summary>User Feedback</summary>
 
 </details>
+
+<table align='center'>
+  <tr >
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
+  </tr>
+</table>
 
 <!-- #endregion /EVALUATE -->
