@@ -31,7 +31,7 @@
 
 <!-- #endregion /INDEX -->
 
-<!-- #region DISCOVER -->
+<!-- #region DISCOVER intro -->
 
 <h3 id='discover'>
 
@@ -51,10 +51,11 @@
 
 </div>
 
-( _**Sort Order:** process_ )
+<!-- #endregion /DISCOVER intro -->
 
-<details>
-<summary>Find Problems (ie. app ideas)</summary>
+<!-- #region DISCOVER content -->
+
+## **FIND PROBLEMS (aka: app ideas)**
 
 - [data.ai](https://www.data.ai/en/apps/ios/top/store-rank/feed/free/united-states/overall/ios-phone/) -- free analytics availabe w/out having to signup
 - [Google Play Store](https://play.google.com/store/apps/top) appreviews
@@ -63,52 +64,44 @@
   - [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - endpoint for searching
   - [find.io](https://fnd.io/#/us/charts/iphone/top-grossing/all) - lets you search the iOS app charts without having to open iTunes on your device
 
-</details>
+## **(IN)VALIDATE YOUR IDEA**
 
-<details>
-<summary>Validate Your Solution</summary>
+- [Lean Canvas]() business plan
+- [Competetive Market Analysis]()
+- [SWAT Analysis]()
 
-**Know** people want it before writing any code.
+## **STAY INDUSTRY-AWARE**
 
-objectively attempt to INVALIDATE your idea - if you can't, it's go time
+### Blogs
 
-- **COMPETITIVE MARKET ANALYSIS**
+- [React Native blog](https://reactnative.dev/blog)
 
-- **SWAT**
+### Podcasts
 
-- **LEAN CANVAS**
-
-</details>
-
-<details>
-<summary>Maintain Awareness</summary>
-
-**INFORMATION / NEWS**
-
-- [Awesome React Weekly](https://react.libhunt.com/newsletter/archive)
 - [React Podcast](https://reactpodcast.simplecast.com/)
 - [React Round Up](https://devchat.tv/podcasts/react-round-up/)
-- [React Wednesdays](https://www.telerik.com/react-wednesdays)
-- [React Native blog](https://reactnative.dev/blog)
-- [React Native Now](https://reactnativenow.com/issues)
 - [React Native Radio](https://reactnativeradio.com/)
 - [The React Native Show](https://callstack.com/podcast-react-native-show)
 
-**MOBILE DEV COMPANIES**
+### Newsletters
+
+- [Awesome React Weekly](https://react.libhunt.com/newsletter/archive)
+- [React Native Now](https://reactnativenow.com/issues)
+- [React Wednesdays](https://www.telerik.com/react-wednesdays)
+
+### Mobile Companies
 
 - [Callstack.io](https://www.callstack.com/)
 - [Infinite Red](https://infinite.red/)
 
-**OPEN-SOURCE**
+### Open-Source Projects
 
 - [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
 - [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
 
-</details>
+<!-- #endregion /DISCOVER content  -->
 
-<!-- #endregion /DISCOVER -->
-
-<!-- #region VISUALIZE -->
+<!-- #region VISUALIZE intro -->
 
 <h3 id='visualize'>
 
@@ -128,63 +121,44 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-( _**Sort Order:** process_ )
+<!-- #endregion /VISUALIZE intro -->
 
-<details>
-<summary>[ Features & Requirements ]</summary>
+<!-- #region VISUALIZE content -->
 
-</details>
+## **FEATURES & REQUIREMENTS**
 
-<details>
-<summary>UI / UX Design</summary>
-
-## **ANDROID**
-
-- [App quality guidelines](https://developer.android.com/quality)
-- [Material Design guidelines](https://material.io/design)
-- [Material Design components](https://material.io/develop/android)
-
-## **iOS**
-
-- [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
-
-## **GRAPHIC ASSETS**
-
-- [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
-
-## **DESIGN**
+## **UI / UX DESIGN**
 
 - [Bootswatch](https://bootswatch.com/) | free Bootstrap themes
 - [Figma community](https://www.figma.com/community) | insperation goldmine design systems, wireframes, mobile design, web, ui kits
 
-</details>
+- Android [App quality guidelines](https://developer.android.com/quality)
+- Android [Material Design guidelines](https://material.io/design)
+- Android [Material Design components](https://material.io/develop/android)
 
-<details>
-<summary>App Architecture</summary>
+- iOS [Human Interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+
+- Canva | [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
+
+## **APP ARCHITECTURE**
 
 - [12-Factor App](https://12factor.net/)
-- Architecture Diagrams: [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc), [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/)
+- [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc) architecture diagrams
+- [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/) architecture diagrams
 
-</details>
-
-<details>
-<summary>Project / Schedule Management</summary>
+## **PROJECT / SCHEDULE MANAGEMENT**
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [Trello](https://trello.com/)
-</details>
 
-<details>
-<summary>Branding & Promotional Assets</summary>
+## **BRANDING & MARKETING**
 
 - [Canva](canva.com)
 
-</details>
+<!-- #endregion VISUALIZE content -->
 
-<!-- #endregion /VISUALIZE -->
-
-<!-- #region BUILD -->
+<!-- #region BUILD intro -->
 
 <h3 id='build'>
 
@@ -204,28 +178,17 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-( _**Sort Order:** alphabetical_ )
+<!-- #endregion /BUILD intro -->
 
-<details>
-<summary>App Boilerplates</summary>
+<!-- #region BUILD content -->
+
+## **PROJECT SETUP**
 
 - [`ignite`](https://github.com/infinitered/ignite)
 - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
 - [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
 
-</details>
-
-<details>
-<summary>Debugging</summary>
-
-- [Flipper](https://fbflipper.com/)
-- [Reactotron](https://github.com/infinitered/reactotron)
-- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
-
-</details>
-
-<details>
-<summary>Development Environments</summary>
+## **WORKFLOW**
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
 - [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
@@ -233,52 +196,11 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [XCode](https://developer.apple.com/documentation/xcode/)
 
-</details>
+## **DEBUGGING & TESTING**
 
-<details>
-<summary>Subject Matter Experts</summary>
-
-## **HTML / CSS**
-
-- [Kevin Powel](https://www.youtube.com/kepowob)
-
-## **JavaScript**
-
-- [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
-
-## **React**
-
-- [Jack Herrington](https://www.youtube.com/c/JackHerrington)
-
-</details>
-
-<details>
-<summary>Tech Stack Docs</summary>
-
-- [Android](https://developer.android.com/reference)
-  - [Android Studio](https://developer.android.com/docs)
-  - [Kotlin](https://developer.android.com/kotlin)
-- [Expo](https://docs.expo.io/)
-- [iOS: Swift](https://developer.apple.com/documentation/swift)
-  - [release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
-- [React](https://reactjs.org/docs)
-  - [repo](https://github.com/facebook/react)
-- [React Native](http://reactnative.dev/docs/getting-started)
-  - [repo](https://github.com/facebook/react-native/)
-  - [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
-  - [community repo](https://github.com/react-native-community)
-  - [community releases repo](https://github.com/react-native-community/releases)
-  - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
-    - [icon directory](https://oblador.github.io/react-native-vector-icons/)
-- [TypeScript](https://www.typescriptlang.org/)
-  - [TypeScript + React Native](https://reactnative.dev/docs/typescript)
-  - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
-  - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
-
-</details>
-
-<details>
-<summary>Testing</summary>
+- [Flipper](https://fbflipper.com/)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
 
 - [Detox](https://github.com/wix/detox/) | mobile app end-to-end testing
 - [Jest](https://jestjs.io/)
@@ -301,15 +223,40 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 - [`react-native-testing-library` docs](https://callstack.github.io/react-native-testing-library/)
   - [`react-native-testing-library` repo](https://callstack.github.io/react-native-testing-library/)
 - [React Query docs](https://react-query.tanstack.com/guides/testing)
+
   - "[Testing React Query](https://tkdodo.eu/blog/testing-react-query)"
 
-</details>
+- [Kevin Powel](https://www.youtube.com/kepowob)
+- [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington)
 
-<details>
-<summary>User Interface / Styling</summary>
+## **TECH**
+
+- [Android](https://developer.android.com/reference)
+  - [Android Studio](https://developer.android.com/docs)
+  - [Kotlin](https://developer.android.com/kotlin)
+- [Expo](https://docs.expo.io/)
+- [iOS: Swift](https://developer.apple.com/documentation/swift)
+  - [release notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
+- [React](https://reactjs.org/docs)
+  - [repo](https://github.com/facebook/react)
+- [React Native](http://reactnative.dev/docs/getting-started)
+  - [repo](https://github.com/facebook/react-native/)
+  - [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
+  - [community repo](https://github.com/react-native-community)
+  - [community releases repo](https://github.com/react-native-community/releases)
+  - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
+    - [icon directory](https://oblador.github.io/react-native-vector-icons/)
+- [TypeScript](https://www.typescriptlang.org/)
+  - [TypeScript + React Native](https://reactnative.dev/docs/typescript)
+  - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
+  - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
+
+## **UI / STYLING**
 
 - [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
 - "[5 Ways To Improve React Native Styling Workflow](https://reactnavigation.org/docs/testing)" | Shopify
+
   1. design system: spacing, color, typography
   2. theme object
   3. provide theme using React.Context
@@ -317,18 +264,11 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
   5. use responsive styles (aka. breakpoints)
   6. enforce with TypeScript
 
-</details>
-
-<details>
-<summary>~ Misc. Tools</summary>
-
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
-</details>
+<!-- #endregion /BUILD content -->
 
-<!-- #endregion /BUILD -->
-
-<!-- #region MARKET -->
+<!-- #region MARKET intro -->
 
 <h3 id='market'>
 
@@ -348,26 +288,21 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-( _**Sort Order:** alphabetical_ )
+<!-- #endregion /MARKET intro -->
 
-<details>
-<summary>App Stores</summary>
+<!-- #region MARKET content -->
+
+## **APP STORES**
 
 - Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
 
 - Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
 
-</details>
-
-<details>
-<summary>Product Landing Page</summary>
+## **PRODUCT PAGE**
 
 - [Start Bootstrap](https://startbootstrap.com/) | free Bootstrap site templates & themes
 
-</details>
-
-<details>
-<summary>Sales</summary>
+## **SALES**
 
 - Conversion Analytics
 
@@ -381,25 +316,15 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 - [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
 
-</details>
-
-<details>
-<summary>Social Channels</summary>
-
-</details>
-
-<details>
-<summary>Target Users</summary>
+## **USER PERSONAS**
 
 - Personas
 
 - Human Universals
 
-</details>
+<!-- #endregion /MARKET content -->
 
-<!-- #endregion /MARKET -->
-
-<!-- #region DEPLOY -->
+<!-- #region DEPLOY intro -->
 
 <h3 id='deploy'>
 
@@ -419,10 +344,9 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-( _**Sort Order:**: process_ )
+<!-- #endregion /DEPLOY intro -->
 
-<details>
-<summary>Developer Accounts</summary>
+<!-- #region DEPLOY content -->
 
 ## **iOS**
 
@@ -436,11 +360,9 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 - [Google Play Console](https://developer.android.com/distribute/console/)
 
-</details>
+<!-- #endregion /DEPLOY content -->
 
-<!-- #endregion /DEPLOY -->
-
-<!-- #region EVALUATE -->
+<!-- #region EVALUATE intro -->
 
 <h3 id='evaluate'>
 
@@ -460,27 +382,19 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
 
 </div>
 
-( _**Sort Order:** alphabetical_ )
+<!-- #endregion /EVALUATE intro -->
 
-<details>
-<summary>App Store Sales</summary>
+<!-- #region EVALUATE content -->
 
-</details>
+## **APP STORE SALES**
 
-<details>
-<summary>In-App Metrics</summary>
+## **IN-APP METRICS**
 
-</details>
+## **PERONAL HABITS**
 
-<details>
-<summary>Personal Habits</summary>
+## **USER FEEDBACK**
 
-</details>
-
-<details>
-<summary>User Feedback</summary>
-
-</details>
+<!-- #endregion /EVALUATE content -->
 
 <table align='center'>
   <tr >
@@ -491,5 +405,3 @@ objectively attempt to INVALIDATE your idea - if you can't, it's go time
     <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
   </tr>
 </table>
-
-<!-- #endregion /EVALUATE -->
