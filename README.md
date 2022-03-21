@@ -55,7 +55,7 @@
 
 <!-- #region DISCOVER content -->
 
-## **FIND PROBLEMS (aka: app ideas)**
+## **_1. FIND PROBLEMS TO SOLVE_**
 
 - [data.ai](https://www.data.ai/en/apps/ios/top/store-rank/feed/free/united-states/overall/ios-phone/) -- free analytics availabe w/out having to signup
 - [Google Play Store](https://play.google.com/store/apps/top) appreviews
@@ -64,13 +64,13 @@
   - [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - endpoint for searching
   - [find.io](https://fnd.io/#/us/charts/iphone/top-grossing/all) - lets you search the iOS app charts without having to open iTunes on your device
 
-## **(IN)VALIDATE YOUR IDEA**
+## **_2. VALIDATE YOUR SOLUTION_**
 
 - [Lean Canvas]() business plan
 - [Competetive Market Analysis]()
 - [SWAT Analysis]()
 
-## **STAY INDUSTRY-AWARE**
+## **_3. STAY INDUSTRY-AWARE_**
 
 ### Blogs
 
@@ -125,9 +125,9 @@
 
 <!-- #region VISUALIZE content -->
 
-## **FEATURES & REQUIREMENTS**
+## **_1. DEFINE FEATURES & REQUIREMENTS_**
 
-## **UI / UX DESIGN**
+## **_2. MAP OUT UI & UX_**
 
 - [Bootswatch](https://bootswatch.com/) | free Bootstrap themes
 - [Figma community](https://www.figma.com/community) | insperation goldmine design systems, wireframes, mobile design, web, ui kits
@@ -140,19 +140,19 @@
 
 - Canva | [creating a logo](https://designschool.canva.com/courses/creating-a-logo/?lesson=the-how-and-why-of-designing-logos)
 
-## **APP ARCHITECTURE**
+## **_3. DESIGN APP ARCHITECTURE_**
 
 - [12-Factor App](https://12factor.net/)
 - [AWS](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc) architecture diagrams
 - [Azure](https://docs.microsoft.com/en-us/azure/architecture/browse/) architecture diagrams
 
-## **PROJECT / SCHEDULE MANAGEMENT**
+## **_4. ROADMAP PROJECT SCHEDULE_**
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 - [GitHub Projects](https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects)
 - [Trello](https://trello.com/)
 
-## **BRANDING & MARKETING**
+## **_5. DESIGN BRANDING & MARKETING_**
 
 - [Canva](canva.com)
 
@@ -182,13 +182,13 @@
 
 <!-- #region BUILD content -->
 
-## **PROJECT SETUP**
+## **_1. SPIN UP PROJECT_**
 
 - [`ignite`](https://github.com/infinitered/ignite)
 - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
 - [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
 
-## **WORKFLOW**
+## **_2. SET UP ENVIRONMENTS_**
 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
 - [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
@@ -196,7 +196,19 @@
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [XCode](https://developer.apple.com/documentation/xcode/)
 
-## **DEBUGGING & TESTING**
+## **_3. BUILD IT_**
+
+### **Native Mobile**
+
+### **X-Platform Mobile**
+
+### **State Management**
+
+### **Data Fetching**
+
+### **Security**
+
+### **Debugging & Testing**
 
 - [Flipper](https://fbflipper.com/)
 - [Reactotron](https://github.com/infinitered/reactotron)
@@ -230,7 +242,7 @@
 - [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
 - [Jack Herrington](https://www.youtube.com/c/JackHerrington)
 
-## **TECH**
+### **Tech**
 
 - [Android](https://developer.android.com/reference)
   - [Android Studio](https://developer.android.com/docs)
@@ -252,7 +264,7 @@
   - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
   - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
 
-## **UI / STYLING**
+### **UI & Styling**
 
 - [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
 - "[5 Ways To Improve React Native Styling Workflow](https://reactnavigation.org/docs/testing)" | Shopify
@@ -347,6 +359,10 @@
 <!-- #endregion /DEPLOY intro -->
 
 <!-- #region DEPLOY content -->
+
+## **_1. DEPLOY RESOURCES_**
+
+## **_2. PUBLISH TO APP STORES_**
 
 ## **iOS**
 
