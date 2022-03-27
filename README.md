@@ -1,20 +1,26 @@
-<!-- #region INDEX -->
-
 <div id='top'>
 
 ![readme section graphic](./assets/readme.png)
 
 </div>
 
-<table align='right'>
-  <tr>
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
-  </tr>  
-</table>
+<!-- #region NAVIGATION -->
+
+<div align='RIGHT'>
+
+[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+
+</div>
+
+<div align='RIGHT'>
+
+<a alt='modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a>
+
+</div>
+
+<!-- #endregion /NAVIGATION -->
 
 1. [`discover`](#discover) - entertain, educate, inform, save time, save money
 2. [`define`](#define) - explicity define 'success' targets & constraints for each SDLC phase
@@ -32,21 +38,23 @@
 
 </h3>
 
+<!-- #region NAVIGATION -->
+
 <div align='RIGHT'>
 
 [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<table align='right'>
-  <tr>
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
-  </tr>  
-</table>
+<div align='RIGHT'>
+
+<a alt='modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a>
+
+</div>
+
+<!-- #endregion /NAVIGATION -->
 
 <!-- #endregion /DISCOVER intro -->
 
@@ -106,21 +114,23 @@
 
 </h3>
 
+<!-- #region NAVIGATION -->
+
 <div align='RIGHT'>
 
 [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<table align='right'>
-  <tr>
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
-  </tr>  
-</table>
+<div align='RIGHT'>
+
+<a alt='modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a>
+
+</div>
+
+<!-- #endregion /NAVIGATION -->
 
 <!-- #endregion /DEFINE intro -->
 
@@ -167,21 +177,23 @@
 
 </h3>
 
+<!-- #region NAVIGATION -->
+
 <div align='RIGHT'>
 
 [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<table align='right'>
-  <tr>
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
-  </tr>  
-</table>
+<div align='RIGHT'>
+
+<a alt='modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a>
+
+</div>
+
+<!-- #endregion /NAVIGATION -->
 
 <!-- #endregion /MARKET intro -->
 
@@ -227,21 +239,23 @@
 
 </h3>
 
+<!-- #region NAVIGATION -->
+
 <div align='RIGHT'>
 
 [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<table align='right'>
-  <tr>
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
-  </tr>  
-</table>
+<div align='RIGHT'>
+
+<a alt='modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a>
+
+</div>
+
+<!-- #endregion /NAVIGATION -->
 
 <!-- #endregion /DELIVER intro -->
 
@@ -373,41 +387,23 @@
 
 </h3>
 
+<!-- #region NAVIGATION -->
+
 <div align='RIGHT'>
 
 [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<table align='right'>
-  <tr>
-    <td style="border: none;">
-      <a alt='modevx github account' href='https://github.com/modevx' target='_blank'>
-        <img src="./assets/github.svg" height="26" width="26">
-      </a>
-    </td> 
-    <td style="border: none;">
-      <a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'>
-        <img src="./assets/twitter.svg" height="26" width="26">
-      </a>
-    </td>                      
-    <td style="border: none;">
-      <a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'>
-        <img src="./assets/email.svg" height="26" width="26" width="26">
-      </a>
-    </td>  
-    <td style="border: none;">
-      <a alt='ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimsmithdev' target='_blank'>
-        <img src="./assets/linkedin-in.svg" height="26" width="26">
-      </a>
-    </td>
-    <td style="border: none;">
-      <a alt='modevx instagram account' href='https://instagram.com/_modevx' target='_blank'>
-        <img src="./assets/instagram.svg" height="26" width="26">
-      </a>
-    </td>
-  </tr>  
-</table>
+<div align='RIGHT'>
+
+<a alt='modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a>&nbsp;&nbsp;&nbsp;
+<a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a>
+
+</div>
+
+<!-- #endregion /NAVIGATION -->
 
 <!-- #endregion /EVALUATE intro -->
 
