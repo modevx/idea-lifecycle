@@ -8,7 +8,7 @@
 
 <div align='RIGHT'>
 
-[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+[top](#top) | [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
@@ -30,8 +30,6 @@
 
 <!-- #endregion /INDEX -->
 
-<!-- #region DISCOVER intro -->
-
 <h3 id='discover'>
 
 ![readme section graphic](./assets/discover.png)
@@ -42,7 +40,7 @@
 
 <div align='RIGHT'>
 
-[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+[top](#top) | [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
@@ -55,8 +53,6 @@
 </div>
 
 <!-- #endregion /NAVIGATION -->
-
-<!-- #endregion /DISCOVER intro -->
 
 <!-- #region DISCOVER content -->
 
@@ -106,8 +102,6 @@
 
 <!-- #endregion /DISCOVER content  -->
 
-<!-- #region DEFINE intro -->
-
 <h3 id='define'>
 
 ![readme section graphic](./assets/define.png)
@@ -118,7 +112,7 @@
 
 <div align='RIGHT'>
 
-[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+[top](#top) | [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
@@ -131,8 +125,6 @@
 </div>
 
 <!-- #endregion /NAVIGATION -->
-
-<!-- #endregion /DEFINE intro -->
 
 <!-- #region DEFINE content -->
 
@@ -169,8 +161,6 @@
 
 <!-- #endregion DEFINE content -->
 
-<!-- #region MARKET intro -->
-
 <h3 id='market'>
 
 ![readme section graphic](./assets/market.png)
@@ -181,7 +171,7 @@
 
 <div align='RIGHT'>
 
-[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+[top](#top) | [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
@@ -194,8 +184,6 @@
 </div>
 
 <!-- #endregion /NAVIGATION -->
-
-<!-- #endregion /MARKET intro -->
 
 <!-- #region MARKET content -->
 
@@ -231,8 +219,6 @@
 
 <!-- #endregion /MARKET content -->
 
-<!-- #region DELIVER intro -->
-
 <h3 id='deliver'>
 
 ![readme section graphic](./assets/deliver.png)
@@ -243,7 +229,7 @@
 
 <div align='RIGHT'>
 
-[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+[top](#top) | [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
@@ -256,8 +242,6 @@
 </div>
 
 <!-- #endregion /NAVIGATION -->
-
-<!-- #endregion /DELIVER intro -->
 
 <!-- #region DELIVER content -->
 
@@ -379,8 +363,6 @@
 
 <!-- #endregion /DELIVER content -->
 
-<!-- #region EVALUATE intro -->
-
 <h3 id='evaluate'>
 
 ![readme section graphic](./assets/evaluate.png)
@@ -391,7 +373,7 @@
 
 <div align='RIGHT'>
 
-[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+[top](#top) | [discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
@@ -404,8 +386,6 @@
 </div>
 
 <!-- #endregion /NAVIGATION -->
-
-<!-- #endregion /EVALUATE intro -->
 
 <!-- #region EVALUATE content -->
 
