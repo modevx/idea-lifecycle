@@ -22,13 +22,13 @@
 
 <!-- #endregion /NAVIGATION -->
 
+# **INDEX**
+
 1. [`discover`](#discover) - entertain, educate, inform, save time, save money
 2. [`define`](#define) - explicity define 'success' targets & constraints for each SDLC phase
 3. [`market`](#market) - start solution awareness BEFORE touching any code
 4. [`deliver`](#deliver) - deploy bare-minimum product for quickest user feedback
 5. [`evaluate`](#evaluate) - use explicit criteria for deciding to "kill or iterate"
-
-<!-- #endregion /INDEX -->
 
 <h3 id='discover'>
 
@@ -54,7 +54,7 @@
 
 <!-- #endregion /NAVIGATION -->
 
-<!-- #region DISCOVER content -->
+# **DISCOVER**
 
 ## **_1. FIND PROBLEMS TO SOLVE_**
 
@@ -126,7 +126,7 @@
 
 <!-- #endregion /NAVIGATION -->
 
-<!-- #region DEFINE content -->
+# **DEFINE**
 
 ## **_1. DEFINE FEATURES & REQUIREMENTS_**
 
@@ -159,8 +159,6 @@
 
 - [Canva](canva.com)
 
-<!-- #endregion DEFINE content -->
-
 <h3 id='market'>
 
 ![readme section graphic](./assets/market.png)
@@ -185,7 +183,7 @@
 
 <!-- #endregion /NAVIGATION -->
 
-<!-- #region MARKET content -->
+# **MARKET**
 
 ## **APP STORES**
 
@@ -217,8 +215,6 @@
 
 - Human Universals
 
-<!-- #endregion /MARKET content -->
-
 <h3 id='deliver'>
 
 ![readme section graphic](./assets/deliver.png)
@@ -243,7 +239,7 @@
 
 <!-- #endregion /NAVIGATION -->
 
-<!-- #region DELIVER content -->
+# **DELIVER**
 
 ## **_1. SPIN UP PROJECT_**
 
@@ -341,8 +337,6 @@
 
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
-<!-- #region DEPLOY content -->
-
 ## **_1. DEPLOY RESOURCES_**
 
 ## **_2. PUBLISH TO APP STORES_**
@@ -358,10 +352,6 @@
 ## **ANDROID**
 
 - [Google Play Console](https://developer.android.com/distribute/console/)
-
-<!-- #endregion /DEPLOY content -->
-
-<!-- #endregion /DELIVER content -->
 
 <h3 id='evaluate'>
 
@@ -387,7 +377,7 @@
 
 <!-- #endregion /NAVIGATION -->
 
-<!-- #region EVALUATE content -->
+# **EVALUATE**
 
 ## **APP STORE SALES**
 
@@ -396,5 +386,3 @@
 ## **PERONAL HABITS**
 
 ## **USER FEEDBACK**
-
-<!-- #endregion /EVALUATE content -->
