@@ -6,28 +6,21 @@
 
 </div>
 
-<div align='center'>
-
-:bangbang: _[hit me up](mailto:feedback@modevx.com) if you find this useful or have feedback._ :bangbang:
-
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
+<table align='right'>
+  <tr>
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
+  </tr>  
 </table>
 
-</div>
-
-1. [`Discover`](#discover)
-2. [`Visualize`](#visualize)
-3. [`Build`](#build)
-4. [`Market`](#market)
-5. [`Deploy`](#deploy)
-6. [`Evaluate`](#evaluate)
+1. [`discover`](#discover) - entertain, educate, inform, save time, save money
+2. [`define`](#define) - explicity define 'success' targets & constraints for each SDLC phase
+3. [`market`](#market) - start solution awareness BEFORE touching any code
+4. [`deliver`](#deliver) - deploy bare-minimum product for quickest user feedback
+5. [`evaluate`](#evaluate) - use explicit criteria for deciding to "kill or iterate"
 
 <!-- #endregion /INDEX -->
 
@@ -39,17 +32,21 @@
 
 </h3>
 
-<div align='center'>
+<div align='RIGHT'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-:bangbang: _you're **NOT** building a **MOBILE APP**. you're building a **SOLUTION**. love the **PROBLEM**. **NOT** your brain baby._ :bangbang:
+[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
+
+<table align='right'>
+  <tr>
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
+  </tr>  
+</table>
 
 <!-- #endregion /DISCOVER intro -->
 
@@ -101,29 +98,33 @@
 
 <!-- #endregion /DISCOVER content  -->
 
-<!-- #region VISUALIZE intro -->
+<!-- #region DEFINE intro -->
 
-<h3 id='visualize'>
+<h3 id='define'>
 
-![readme section graphic](./assets/visualize.png)
+![readme section graphic](./assets/define.png)
 
 </h3>
 
-<div align='center'>
+<div align='RIGHT'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-:bangbang: _consistent, successful execution requires **DEFINING THE TARGET** at **EVERY** lifecycle phase_ :bangbang:
+[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<!-- #endregion /VISUALIZE intro -->
+<table align='right'>
+  <tr>
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
+  </tr>  
+</table>
 
-<!-- #region VISUALIZE content -->
+<!-- #endregion /DEFINE intro -->
+
+<!-- #region DEFINE content -->
 
 ## **_1. DEFINE FEATURES & REQUIREMENTS_**
 
@@ -156,31 +157,95 @@
 
 - [Canva](canva.com)
 
-<!-- #endregion VISUALIZE content -->
+<!-- #endregion DEFINE content -->
 
-<!-- #region BUILD intro -->
+<!-- #region MARKET intro -->
 
-<h3 id='build'>
+<h3 id='market'>
 
-![readme section graphic](./assets/build.png)
+![readme section graphic](./assets/market.png)
 
 </h3>
 
-<div align='center'>
+<div align='RIGHT'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-:bangbang: _focus on **OUTPUT.** not **INPUT.**_ :bangbang:
+[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
 
-<!-- #endregion /BUILD intro -->
+<table align='right'>
+  <tr>
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
+  </tr>  
+</table>
 
-<!-- #region BUILD content -->
+<!-- #endregion /MARKET intro -->
+
+<!-- #region MARKET content -->
+
+## **APP STORES**
+
+- Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
+
+- Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
+
+## **PRODUCT PAGE**
+
+- [Start Bootstrap](https://startbootstrap.com/) | free Bootstrap site templates & themes
+
+## **SALES**
+
+- Conversion Analytics
+
+- Features, Advantages, Benefits
+
+- Genuine Value Prop
+
+- Monetization Strategy
+
+- Sales Tracking
+
+- [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
+
+## **USER PERSONAS**
+
+- Personas
+
+- Human Universals
+
+<!-- #endregion /MARKET content -->
+
+<!-- #region DELIVER intro -->
+
+<h3 id='deliver'>
+
+![readme section graphic](./assets/deliver.png)
+
+</h3>
+
+<div align='RIGHT'>
+
+[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
+
+</div>
+
+<table align='right'>
+  <tr>
+    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="./assets/github.svg" height="26" width="26"></a></td> 
+    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="./assets/twitter.svg" height="26" width="26"></a></td>                      
+    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="./assets/email.svg" height="26" width="26" width="26"></a></td>  
+    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="./assets/linkedin-in.svg" height="26" width="26"></a></td>
+    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="./assets/instagram.svg" height="26" width="26"></a></td>
+  </tr>  
+</table>
+
+<!-- #endregion /DELIVER intro -->
+
+<!-- #region DELIVER content -->
 
 ## **_1. SPIN UP PROJECT_**
 
@@ -278,86 +343,6 @@
 
 - [url encoding](https://ascii.cl/url-encoding.htm)
 
-<!-- #endregion /BUILD content -->
-
-<!-- #region MARKET intro -->
-
-<h3 id='market'>
-
-![readme section graphic](./assets/market.png)
-
-</h3>
-
-<div align='center'>
-
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-:bangbang: _an un-marketed mobile app is a hobby project, not a business. "I **NEED** that!" vs. "What does it do, again?"_ :bangbang:
-
-</div>
-
-<!-- #endregion /MARKET intro -->
-
-<!-- #region MARKET content -->
-
-## **APP STORES**
-
-- Apple Store: [Developers](https://developer.apple.com/app-store/), [Developer Program](https://developer.apple.com/programs/whats-included/), [Connect API](https://developer.apple.com/documentation/appstoreconnectapi)
-
-- Google Play Store: [Console](https://developer.android.com/distribute/console?hl=ru), [Services](https://developer.android.com/distribute/play-services?hl=ru)
-
-## **PRODUCT PAGE**
-
-- [Start Bootstrap](https://startbootstrap.com/) | free Bootstrap site templates & themes
-
-## **SALES**
-
-- Conversion Analytics
-
-- Features, Advantages, Benefits
-
-- Genuine Value Prop
-
-- Monetization Strategy
-
-- Sales Tracking
-
-- [Accelerate the Sale](https://www.amazon.com/Accelerate-Sale-Kick-Start-Personal-Selling/dp/0071760407) | book by Mark Rogers
-
-## **USER PERSONAS**
-
-- Personas
-
-- Human Universals
-
-<!-- #endregion /MARKET content -->
-
-<!-- #region DEPLOY intro -->
-
-<h3 id='deploy'>
-
-![readme section graphic](./assets/deploy.png)
-
-</h3>
-
-<div align='center'>
-
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-:bangbang: _fast. efficient._ :bangbang:
-
-</div>
-
-<!-- #endregion /DEPLOY intro -->
-
 <!-- #region DEPLOY content -->
 
 ## **_1. DEPLOY RESOURCES_**
@@ -378,6 +363,8 @@
 
 <!-- #endregion /DEPLOY content -->
 
+<!-- #endregion /DELIVER content -->
+
 <!-- #region EVALUATE intro -->
 
 <h3 id='evaluate'>
@@ -386,17 +373,41 @@
 
 </h3>
 
-<div align='center'>
+<div align='RIGHT'>
 
-[Discover](#discover) | [Visualize](#visualize) | [Build](#build) | [Market](#market) | [Deploy](#deploy) | [Evaluate](#evaluate) | [Connect](#connect)
-
-</div>
-
-<div align='center'>
-
-:bangbang: _**AWARENESS** is the differentiator. be painfully objective about app performance, opportunities & your output effectiveness & efficiency at **EVERY** step in the process. wash. rinse. repeat._ :bangbang:
+[discover](#discover) | [define](#define) | [market](#market) | [deliver](#deliver) | [evaluate](#evaluate)
 
 </div>
+
+<table align='right'>
+  <tr>
+    <td style="border: none;">
+      <a alt='modevx github account' href='https://github.com/modevx' target='_blank'>
+        <img src="./assets/github.svg" height="26" width="26">
+      </a>
+    </td> 
+    <td style="border: none;">
+      <a alt='modevx twitter account' href='https://twitter.com/modevx_apps' target='_blank'>
+        <img src="./assets/twitter.svg" height="26" width="26">
+      </a>
+    </td>                      
+    <td style="border: none;">
+      <a alt='modevx email' href='mailto:ephraim@modevx.com' target='_blank'>
+        <img src="./assets/email.svg" height="26" width="26" width="26">
+      </a>
+    </td>  
+    <td style="border: none;">
+      <a alt='ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimsmithdev' target='_blank'>
+        <img src="./assets/linkedin-in.svg" height="26" width="26">
+      </a>
+    </td>
+    <td style="border: none;">
+      <a alt='modevx instagram account' href='https://instagram.com/_modevx' target='_blank'>
+        <img src="./assets/instagram.svg" height="26" width="26">
+      </a>
+    </td>
+  </tr>  
+</table>
 
 <!-- #endregion /EVALUATE intro -->
 
@@ -411,13 +422,3 @@
 ## **USER FEEDBACK**
 
 <!-- #endregion /EVALUATE content -->
-
-<table align='center'>
-  <tr >
-    <td style="border: none;"><a alt='icon link to modevx github account' href='https://github.com/modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-157-675821.png" width="26"></a></td> 
-    <td style="border: none;"><a alt='icon link to modevx twitter account' href='https://twitter.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-235-675852.png" width="26"></a></td>                      
-    <td style="border: none;"><a alt='icon link to modevx email' href='mailto:ephraim@modevx.com' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/email-letter-envelope-message-38065.png" width="26"></a></td>  
-    <td style="border: none;"><a alt='icon link to ephraim smiths linkedin account' href='https://linkedin.com/in/ephraimjsmith' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png" width="26"></a></td>
-    <td style="border: none;"><a alt='icon link to modevx instagram account' href='https://instagram.com/_modevx' target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-2752153-2284970.png" width="26"></a></td>
-  </tr>
-</table>
