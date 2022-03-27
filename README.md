@@ -262,7 +262,10 @@ _( bare-minimum to start the feedback loop ASAFP! )_
   - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
   - [Google Play Console](https://developer.android.com/distribute/console/)
 - **_ARCHITECTURE_**
-  - [The 12-Factor-App](https://12factor.net/)
+  - [12-Factor-App](https://12factor.net/)
+  - [Azure architecture diagrams](https://docs.microsoft.com/en-us/azure/architecture/browse/)
+  - [AWS architecture diagrams](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc)
+- **_BOILERPLATES / STARTER APPS_**
   - [`ignite`](https://github.com/infinitered/ignite)
   - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
   - [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
