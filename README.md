@@ -266,12 +266,14 @@ _( bare-minimum to start the feedback loop ASAFP! )_
   - [`ignite`](https://github.com/infinitered/ignite)
   - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
   - [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
+- **CODE DESIGN**
+- **DEPENDENCIES & PACKAGES**
 - **DEPLOYMENT PIPELINE**
 - **DEBUGGING**
   - [Flipper](https://fbflipper.com/)
   - [Reactotron](https://github.com/infinitered/reactotron)
   - [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
-- **DESIGN SYSTEM / COMPONENTS / SYTLING**
+- **DESIGN SYSTEM / COMPONENTS / STYLING**
   - [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
   - [Shopify's Styling Workflow](https://reactnavigation.org/docs/testing)
     1. design system: spacing, color, typography
@@ -289,6 +291,20 @@ _( bare-minimum to start the feedback loop ASAFP! )_
     - [community releases repo](https://github.com/react-native-community/releases)
     - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
       - [icon directory](https://oblador.github.io/react-native-vector-icons/)
+    - [recommended libraries](https://reactnative.directory/?isRecommended=true)
+      - [`@expo/vector-icons`](https://github.com/expo/vector-icons)
+      - [`lottie-react-native`](https://github.com/lottie-react-native/lottie-react-native)
+      - [`react-native-animatable`](https://github.com/oblador/react-native-animatable)
+      - [`react-native-calendars`](https://github.com/wix/react-native-calendars)
+      - [`react-native-gesture-handler`](https://github.com/software-mansion/react-native-gesture-handler)
+      - [`react-native-maps`](https://github.com/react-native-maps/react-native-maps)
+      - [`react-native-navigation`](https://github.com/wix/react-native-navigation)
+      - [`react-native-onesignal`](https://github.com/geektimecoil/react-native-onesignal)
+      - [`react-native-root-siblings`](https://github.com/magicismight/react-native-root-siblings)
+      - [`react-native-screens`](https://github.com/software-mansion/react-native-screens)
+      - [`react-native-tab-view`](https://github.com/satya164/react-native-tab-view)
+      - [`react-native-vector-icons`](https://github.com/oblador/react-native-vector-icons)
+      - [`react-navigation`](https://github.com/react-navigation/react-navigation/tree/main/packages/native)
 - **IDEs**
   - [Android Studio](https://developer.android.com/studio/intro)
   - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
