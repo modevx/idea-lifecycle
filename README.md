@@ -26,9 +26,9 @@
 
 1. [`discover`](#discover) - entertain, educate, inform, save time, save money
 2. [`define`](#define) - explicity define 'success' targets & constraints for each SDLC phase
-3. [`market`](#market) - start solution awareness BEFORE touching any code
+3. [`market`](#market) - start promoting BEFORE touching any code
 4. [`deliver`](#deliver) - deploy bare-minimum product for quickest user feedback
-5. [`evaluate`](#evaluate) - use explicit criteria for deciding to "kill or iterate"
+5. [`evaluate`](#evaluate) - use explicit criteria for deciding to "kill or continue"
 
 <!-- #region BANNER & NAV -->
 
@@ -58,7 +58,7 @@
 
 ## **[ START SMALL / FIND YOUR NICHE ]**
 
-- **IMPROVE AN EXISTING SOLUTION** _( start here )_
+- _**IMPROVE AN EXISTING SOLUTION** ( start here )_
 
   - [data.ai](https://www.data.ai/en/apps/ios/top/store-rank/feed/free/united-states/overall/ios-phone/) -- free analytics availabe w/out having to signup
   - [Google Play Store](https://play.google.com/store/apps/top) appreviews
@@ -67,23 +67,23 @@
     - [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/) - endpoint for searching
     - [find.io](https://fnd.io/#/us/charts/iphone/top-grossing/all) - lets you search the iOS app charts without having to open iTunes on your device
 
-- **CREATE NEW SOLUTION** _( only go this route if the data tells you to )_
+- _**CREATE A NEW SOLUTION** ( only go this route if the research tells you to )_
 
 <hr>
 
 ## **[ VALIDATE THE IDEA ]**
 
-- **GAUGE USER INTEREST**
+- **_GAUGE USER INTEREST_**
 
   - "Early Access" Landing Page
     - if a lot of people sign up, keep going
     - have a few of these out in the ether while you're actively working on other apps
 
-- **VERIFY MARKET SIZE**
+- **_VERIFY MARKET SIZE_**
 
   - [ ]
 
-- **EVALUATE THE COMPETITION**
+- **_COMPETITION COMPARISON_**
   - [Competetive Market Analysis]()
   - [SWAT Analysis]()
 
@@ -91,7 +91,7 @@
 
 ## **[ STAY AWARE ]**
 
-- **INDUSTRY / TECH**
+- **_INDUSTRY / TECH_**
   - Blogs
     - [React Native](https://reactnative.dev/blog)
   - Newsletters
@@ -103,12 +103,12 @@
     - [React Round Up](https://devchat.tv/podcasts/react-round-up/)
     - [React Native Radio](https://reactnativeradio.com/)
     - [The React Native Show](https://callstack.com/podcast-react-native-show)
-- **USERS**
+- **_USERS_**
   - [ ]
-- **MOBILE COMPANIES**
+- **_MOBILE COMPANIES_**
   - [Callstack.io](https://www.callstack.com/)
   - [Infinite Red](https://infinite.red/)
-- **OPEN-SOURCE PROJECTS**
+- **_OPEN-SOURCE PROJECTS_**
   - [40 Best Free And Open Source Android Apps in 2022](https://antonyagnel.com/best-free-and-open-source-android-apps/)
   - [open-source React Native apps](https://github.com/ReactNativeNews/React-Native-Apps) repo
 
@@ -253,44 +253,36 @@ _( bare-minimum to start the feedback loop ASAFP! )_
 
 ## **[ APP DEVELOPMENT ]**
 
-- **ACCESSIBILITY**
-- **APP STORE ACCOUNTS**
+- **_ACCESSIBILITY_**
+- **_APP STORE ACCOUNTS_**
   - [Apple Developer Program](https://developer.apple.com/)
   - enrollment [requirements](https://developer.apple.com/programs/enroll/)
   - Apple [Agreements & Guidelines](https://developer.apple.com/support/terms/#apple-developer-agreement)
   - App Store [Small Business Program](https://developer.apple.com/app-store/small-business-program/)
   - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
   - [Google Play Console](https://developer.android.com/distribute/console/)
-- **ARCHITECTURE**
+- **_ARCHITECTURE_**
   - [The 12-Factor-App](https://12factor.net/)
   - [`ignite`](https://github.com/infinitered/ignite)
   - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
   - [`react-native-template-typescript`](https://github.com/react-native-community/react-native-template-typescript)
-- **CODE DESIGN**
-- **DEPENDENCIES & PACKAGES**
-- **DEPLOYMENT PIPELINE**
-- **DEBUGGING**
+- **_CODE DESIGN_**
+- **_DEPENDENCIES & PACKAGES_**
+- **_DEPLOYMENT PIPELINE_**
+- **_DEBUGGING_**
   - [Flipper](https://fbflipper.com/)
   - [Reactotron](https://github.com/infinitered/reactotron)
   - [`react-devtools`](https://github.com/facebook/react/tree/main/packages/react-devtools)
-- **DESIGN SYSTEM / COMPONENTS / STYLING**
+- **_DESIGN SYSTEM / COMPONENTS / STYLING_**
   - [React Native component libraries](https://docs.expo.dev/guides/userinterface/)
   - [Shopify's Styling Workflow](https://reactnavigation.org/docs/testing)
-    1. design system: spacing, color, typography
-    2. theme object
-    3. provide theme using React.Context
-    4. break system into components with props that only accept theme values
-    5. use responsive styles (aka. breakpoints)
-    6. enforce with TypeScript
-- **FRAMEWORKS / LIBRARIES**
+- **_FRAMEWORKS / LIBRARIES_**
   - [Expo](https://docs.expo.io/)
   - [React](https://reactjs.org/docs) | [repo](https://github.com/facebook/react)
   - [React Native](http://reactnative.dev/docs/getting-started) | [repo](https://github.com/facebook/react-native/)
     - [components](https://github.com/facebook/react-native/tree/main/Libraries/Components)
     - [community repo](https://github.com/react-native-community)
     - [community releases repo](https://github.com/react-native-community/releases)
-    - [`react-native-vector-icons` repo](https://github.com/oblador/react-native-vector-icons)
-      - [icon directory](https://oblador.github.io/react-native-vector-icons/)
     - [recommended libraries](https://reactnative.directory/?isRecommended=true)
       - [`@expo/vector-icons`](https://github.com/expo/vector-icons)
       - [`lottie-react-native`](https://github.com/lottie-react-native/lottie-react-native)
@@ -304,39 +296,40 @@ _( bare-minimum to start the feedback loop ASAFP! )_
       - [`react-native-screens`](https://github.com/software-mansion/react-native-screens)
       - [`react-native-tab-view`](https://github.com/satya164/react-native-tab-view)
       - [`react-native-vector-icons`](https://github.com/oblador/react-native-vector-icons)
+        - [icon directory](https://oblador.github.io/react-native-vector-icons/)
       - [`react-navigation`](https://github.com/react-navigation/react-navigation/tree/main/packages/native)
-- **IDEs**
+- **_IDEs_**
   - [Android Studio](https://developer.android.com/studio/intro)
   - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/?view=sql-server-ver15)
   - [Insomnia](https://docs.insomnia.rest/insomnia/get-started)
   - [Postman](https://learning.postman.com/docs/getting-started/introduction/)
   - [Visual Studio Code](https://code.visualstudio.com/docs)
   - [XCode](https://developer.apple.com/documentation/xcode/)
-- **LANGUAGES**
+- **_LANGUAGES_**
   - [Kotlin](https://developer.android.com/kotlin)
   - [Swift](https://developer.apple.com/documentation/swift)
   - [TypeScript](https://www.typescriptlang.org/)
     - [TypeScript + React Native](https://reactnative.dev/docs/typescript)
     - [TypeScript + Expo](https://docs.expo.dev/guides/typescript/)
     - [React/TypeScript cheatsheet](https://github.com/typescript-cheatsheets/react) (_for typing React components_)
-- **LOCALIZATION**
+- **_LOCALIZATION_**
   - [`i18n`](https://github.com/mashpie/i18n-node) - "translation module for node.js / express.js with dynamic json storage"
-- **MISC. TOOLS**
+- **_MISC. TOOLS_**
   - [url encoding](https://ascii.cl/url-encoding.htm)
   - [regex101.com](https://regex101.com/)
-- **NAVIGATION**
-- **PROJECT MANAGEMENT**
-- **SECURITY**
-- **SERVICES ( APIS )**
+- **_NAVIGATION_**
+- **_PROJECT MANAGEMENT_**
+- **_SECURITY_**
+- **_SERVICES ( APIS )_**
   - [`axios`](https://github.com/axios/axios#table-of-contents)
-- **STATE MANAGEMENT**
+- **_STATE MANAGEMENT_**
   - [React Query docs](https://react-query.tanstack.com/guides/testing)
-- **STORAGE**
+- **_STORAGE_**
   - [SQLite]()
   - [Azure DynamoDB]()
   - [MongoDB]()
   - []()
-- **TESTING**
+- **_TESTING_**
   - [Detox](https://github.com/wix/detox/) | mobile app end-to-end testing
   - [Jest](https://jestjs.io/)
     - [configure](https://jestjs.io/docs/configuration)
@@ -358,7 +351,7 @@ _( bare-minimum to start the feedback loop ASAFP! )_
   - [`react-native-testing-library` docs](https://callstack.github.io/react-native-testing-library/)
     - [`react-native-testing-library` repo](https://callstack.github.io/react-native-testing-library/)
   - [Testing React Query](https://tkdodo.eu/blog/testing-react-query)
-- **USAGE MONITORING**
+- **_USAGE MONITORING_**
 
 <!-- #region BANNER & NAV -->
 
