@@ -284,6 +284,7 @@ _( bare-minimum to start the feedback loop ASAFP! )_
     - navigation
     - security
     - services ( associated custom hooks )
+    - screens
     - testing
       - end-to-end
       - unit
@@ -293,6 +294,7 @@ _( bare-minimum to start the feedback loop ASAFP! )_
       - fonts
       - layout
       - platform-specific
+    - utility funcs
 - **_BOILERPLATES / STARTER APPS_**
   - [`ignite`](https://github.com/infinitered/ignite)
   - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
