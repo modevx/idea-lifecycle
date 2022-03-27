@@ -262,9 +262,36 @@ _( bare-minimum to start the feedback loop ASAFP! )_
   - [Developing for the Apple App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
   - [Google Play Console](https://developer.android.com/distribute/console/)
 - **_ARCHITECTURE_**
+  - **Design**
   - [12-Factor-App](https://12factor.net/)
   - [Azure architecture diagrams](https://docs.microsoft.com/en-us/azure/architecture/browse/)
   - [AWS architecture diagrams](https://aws.amazon.com/architecture/reference-architecture-diagrams/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc)
+  - **Base Setup ( [MODEVX boilerplate](https://github.com/modevx/react-native-expo-starter) )**
+    - assets
+      - platform-specifc icons
+      - splash screen
+    - common components ( custom ui kit )
+    - config/environment management
+    - data
+      - client/remote state management
+      - local/remote storage
+      - models
+    - docs
+      - BUILD_NOTES.md
+      - README.md
+    - localization/translations
+    - navigation
+    - security
+    - services ( associated custom hooks )
+    - testing
+      - end-to-end
+      - unit
+    - theme
+      - colors
+      - dark mode
+      - fonts
+      - layout
+      - platform-specific
 - **_BOILERPLATES / STARTER APPS_**
   - [`ignite`](https://github.com/infinitered/ignite)
   - [`react-native-boilerplate`](https://github.com/thecodingmachine/react-native-boilerplate/tree/master/template)
