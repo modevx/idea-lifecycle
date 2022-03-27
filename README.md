@@ -290,10 +290,11 @@ _( bare-minimum to start the feedback loop ASAFP! )_
       - unit
     - theme
       - colors
-      - dark mode
+        - mappings
+        - palette
       - fonts
       - layout
-      - platform-specific
+      - platform-specific styles
     - utility funcs
 - **_BOILERPLATES / STARTER APPS_**
   - [`ignite`](https://github.com/infinitered/ignite)
