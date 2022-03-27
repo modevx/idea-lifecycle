@@ -276,6 +276,7 @@ _( bare-minimum to start the feedback loop ASAFP! )_
       - client/remote state management
       - local/remote storage
       - models
+    - debugging
     - docs
       - BUILD_NOTES.md
       - README.md
